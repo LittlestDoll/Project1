@@ -23,7 +23,9 @@ How does the ownership profile (i.e. mix of private equity/venture capital, inst
 
 # Data Sources
 IEX Trading Data API
+
 EDGAR online filings API
+
 IPOscoop Dataset
 
 

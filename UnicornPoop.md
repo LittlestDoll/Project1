@@ -44,3 +44,8 @@ IPOscoop Dataset
 2)	Classify owners
 3)	Check quarterly ownership changes
 4)	Chart ownership change information
+
+## Charts
+1) 1, 3 and 5 year performance of companies - bars for each company with +/- % from IPO price 
+2) 1, 3 and.5 year ownership information either pie or bar
+3) 

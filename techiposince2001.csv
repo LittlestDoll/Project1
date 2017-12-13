@@ -1,4 +1,4 @@
-Symbol,Name,LastSale,MarketCap,ADR TSO,IPOyear,Sector,Industry
+Ticker,Name,LastSale,MarketCap,ADR TSO,IPOyear,Sector,Industry
 ACMR,"ACM Research, Inc.",5.9,89162475.6,n/a,2017,Technology,Industrial Machinery/Components
 ALTR,Altair Engineering Inc.,22.2,1396439318,n/a,2017,Technology,Computer Software: Prepackaged Software
 DDD,3D Systems Corporation,9.66,1099909393,n/a,n/a,Technology,Computer Software: Prepackaged Software
@@ -30,7 +30,7 @@ MDB,"MongoDB, Inc.",26.62,1303536279,n/a,2017,Technology,Computer Software: Prep
 MDRX,"Allscripts Healthcare Solutions, Inc.",14.14,2554828082,n/a,n/a,Technology,EDP Services
 MULE,"MuleSoft, Inc.",21.4,2781185002,n/a,2017,Technology,Computer Software: Prepackaged Software
 OKTA,"Okta, Inc.",29.17,2788147709,n/a,2017,Technology,Computer Software: Prepackaged Software
-GOOGL,Alphabet Inc.,1044.57,7.25769E+11,n/a,n/a,Technology,"Computer Software: Programming, Data Processing"
+GOOGL,Alphabet Inc.,1044.57,7.26E+11,n/a,n/a,Technology,"Computer Software: Programming, Data Processing"
 AABA,Altaba Inc.,70.22,61328607935,n/a,n/a,Technology,EDP Services
 PSDO,"Presidio, Inc.",15.72,1441443451,n/a,2017,Technology,Retail: Computer Software & Peripheral Equipment
 SAIL,"SailPoint Technologies Holdings, Inc.",15.83,1354324648,n/a,2017,Technology,Computer Software: Prepackaged Software
@@ -231,7 +231,7 @@ BCOV,Brightcove Inc.,7.1,245892013.8,n/a,2012,Technology,EDP Services
 ENPH,"Enphase Energy, Inc.",2.8,239491053.2,n/a,2012,Technology,Semiconductors
 GVP,"GSE Systems, Inc.",3.3,64016884.8,n/a,n/a,Technology,Computer Software: Prepackaged Software
 EPAM,"EPAM Systems, Inc.",100.07,5284955481,n/a,2012,Technology,EDP Services
-FB,"Facebook, Inc.",180.14,5.23452E+11,n/a,2012,Technology,"Computer Software: Programming, Data Processing"
+FB,"Facebook, Inc.",180.14,5.23E+11,n/a,2012,Technology,"Computer Software: Programming, Data Processing"
 HQCL,"Hanwha Q CELLS Co., Ltd. ",7.42,40821315.5,5501525,n/a,Technology,Semiconductors
 GWRE,"Guidewire Software, Inc.",72.73,5579099899,n/a,2012,Technology,Computer Software: Prepackaged Software
 MTSI,"MACOM Technology Solutions Holdings, Inc.",32.79,2107210068,n/a,2012,Technology,Semiconductors
@@ -260,13 +260,13 @@ NSP,"Insperity, Inc.",115.5,2407350446,n/a,n/a,Technology,Professional Services
 GRPN,"Groupon, Inc.",5.72,3194065457,n/a,2011,Technology,Advertising
 IMI,"Intermolecular, Inc.",1.25,61949626.25,n/a,2011,Technology,Semiconductors
 INXN,InterXion Holding N.V.,56.83,4053513410,n/a,2011,Technology,"Computer Software: Programming, Data Processing"
-INTC,Intel Corporation,43.08,2.01614E+11,n/a,n/a,Technology,Semiconductors
+INTC,Intel Corporation,43.08,2.02E+11,n/a,n/a,Technology,Semiconductors
 MX,MagnaChip Semiconductor Corporation,11.5,392590323.5,n/a,2011,Technology,Semiconductors
 NPTN,NeoPhotonics Corporation,6.57,288720621,n/a,2011,Technology,Semiconductors
 LINK,"Interlink Electronics, Inc.",5.75,42184806,n/a,n/a,Technology,Computer peripheral equipment
 NQ,NQ Mobile Inc.,4.1,400643599.1,n/a,2011,Technology,Computer Software: Prepackaged Software
 RENN,Renren Inc.,9.48,647825194.7,n/a,2011,Technology,EDP Services
-IBM,International Business Machines Corporation,153.57,1.42174E+11,n/a,n/a,Technology,Computer Manufacturing
+IBM,International Business Machines Corporation,153.57,1.42E+11,n/a,n/a,Technology,Computer Manufacturing
 IIJI,"Internet Initiative Japan, Inc.",9.31,15519509.32,1666972,n/a,Technology,"Computer Software: Programming, Data Processing"
 IPG,"Interpublic Group of Companies, Inc. (The)",20.19,7846007493,n/a,n/a,Technology,Advertising
 SQNS,Sequans Communications S.A.,1.78,142119326,n/a,2011,Technology,Semiconductors
@@ -299,7 +299,7 @@ KLIC,"Kulicke and Soffa Industries, Inc.",24.36,1719908397,n/a,n/a,Technology,Se
 KEYW,The KEYW Holding Corporation,5.06,251964395.1,n/a,2010,Technology,EDP Services
 KYO,Kyocera Corporation,67.53,24831423075,n/a,n/a,Technology,Semiconductors
 LLL,"L3 Technologies, Inc.",193.62,15129883083,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment
-AVGO,Broadcom Limited,263.89,1.07662E+11,n/a,2009,Technology,Semiconductors
+AVGO,Broadcom Limited,263.89,1.08E+11,n/a,2009,Technology,Semiconductors
 CYOU,Changyou.com Limited,36.24,696357253.4,19215156,2009,Technology,Computer Software: Prepackaged Software
 LSCC,Lattice Semiconductor Corporation,5.67,699483451,n/a,n/a,Technology,Semiconductors
 LFGR,Leaf Group Ltd.,8.2,170894182.8,n/a,n/a,Technology,EDP Services
@@ -358,7 +358,7 @@ BIDU,"Baidu, Inc.",233.01,64198929181,275520060,2005,Technology,"Computer Softwa
 SIMO,Silicon Motion Technology Corporation,53.28,1900234770,35665067,2005,Technology,Semiconductors
 SPWR,SunPower Corporation,8.1,1130528964,n/a,2005,Technology,Semiconductors
 JOBS,"51job, Inc.",58.57,2154987739,36793371,2004,Technology,Diversified Commercial Services
-GOOG,Alphabet Inc.,1030.93,7.16292E+11,n/a,2004,Technology,"Computer Software: Programming, Data Processing"
+GOOG,Alphabet Inc.,1030.93,7.16E+11,n/a,2004,Technology,"Computer Software: Programming, Data Processing"
 BLKB,"Blackbaud, Inc.",96.38,4634875166,n/a,2004,Technology,Computer Software: Prepackaged Software
 INTX,"Intersections, Inc.",2.12,51073125.64,n/a,2004,Technology,EDP Services
 MPWR,"Monolithic Power Systems, Inc.",111.26,4619171740,n/a,2004,Technology,Semiconductors
@@ -461,7 +461,7 @@ RMBL,"RumbleOn, Inc.",5.48,70848404.68,n/a,n/a,Technology,EDP Services
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-SAP,SAP SE,112.42,1.34749E+11,n/a,n/a,Technology,Computer Software: Prepackaged Software
+SAP,SAP SE,112.42,1.35E+11,n/a,n/a,Technology,Computer Software: Prepackaged Software
 ,,,,,,,
 SCSC,"ScanSource, Inc.",35.05,893456851.2,n/a,n/a,Technology,Retail: Computer Software & Peripheral Equipment
 SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,75.43,3261634083,n/a,n/a,Technology,EDP Services

@@ -1,1332 +1,1341 @@
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/13,21.48,21.48,21.18,21.23,21.23,96500,RXN
-,RXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/30/15,26.6,26.85,26.450001,26.690001,26.690001,850200,RXN
-,RXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/28/13,40.860001,41.349998,40.209999,40.389999,40.389999,4739000,NOW
-,NOW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/29/15,75.809998,76.610001,73.459999,73.769997,73.769997,1309300,NOW
-,NOW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/10/13,68.360001,72.300003,68.040001,72.040001,72.040001,193100,SSTK
-,SSTK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/12/15,33.619999,34.240002,33.400002,34.040001,34.040001,494100,SSTK
-,SSTK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/13,42.419998,42.419998,40.790001,41.02,41.02,1040700,SPLK
-,SPLK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/20/15,63.310001,64.349998,61.900002,63.740002,63.740002,1518500,SPLK
-,SPLK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/12/13,5.57,5.68,5.5,5.64,5.64,377400,SYNC
-,SYNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/12/15,2.15,2.15,2.09,2.13,2.13,52600,SYNC
-,SYNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/12,24.6,24.6,24.139999,24.24,23.591368,216400,AL
-,AL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/10/12,7.8,7.84,7.61,7.75,7.75,49500,CARB
-,CARB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/11/14,10.83,11.22,10.7,10.96,10.96,81400,CARB
-,CARB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/16/12,20.969999,20.969999,20.27,20.459999,20.459999,528000,CSOD
-,CSOD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/17/14,56.490002,56.869999,55.25,56.049999,56.049999,438300,CSOD
-,CSOD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/16/12,11.99,12.1,11.53,12.06,12.06,55300,ELLI
-,ELLI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/14/14,24.08,24.75,23.959999,24.49,24.49,334000,ELLI
-,ELLI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/5/12,3.87,4.05,3.77,3.9,3.9,26650300,GRPN
-,GRPN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/3/14,7.32,7.66,7.21,7.37,7.37,31069200,GRPN
-,GRPN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/12,6.99,7.4,6.99,7.38,7.38,42500,IMI
-,IMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/14,2.33,2.33,2.23,2.26,2.26,15800,IMI
-,IMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/27/12,14.29,14.37,14.2,14.26,14.26,81900,INXN
-,INXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/27/14,25.08,25.110001,24.280001,24.49,24.49,235600,INXN
-,INXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/12/12,11.7,11.79,11.23,11.34,11.34,238700,MX
-,MX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/10/14,15.16,15.17,14.66,14.79,14.79,291200,MX
-,MX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/1/12,5.55,5.74,5.49,5.58,5.58,49900,NPTN
-,NPTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/3/14,7.29,7.34,7.09,7.25,7.25,241500,NPTN
-,NPTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/4/12,11.9,11.9,11.48,11.75,11.75,400400,NQ
-,NQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/5/14,11.91,12.26,11.55,11.7,11.7,1425500,NQ
-,NQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/3/12,6.6,6.65,6.19,6.34,6.34,7818600,RENN
-,RENN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/5/14,3.25,3.33,3.25,3.32,3.32,278300,RENN
-,RENN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/12,2.41,2.5,2.33,2.35,2.35,119400,SQNS
-,SQNS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/15/12,12.59,12.8,12.41,12.58,12.340456,71500,UBNT
-,UBNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/13/14,32.82,33.099998,31.25,31.77,31.599571,1055000,UBNT
-,UBNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/23/12,20.860001,21.030001,20.6,20.92,20.92,1426600,YNDX
-,YNDX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/23/14,31,32.310001,30.879999,32.209999,32.209999,6143200,YNDX
-,YNDX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/17/12,2.54,2.55,2.41,2.44,2.44,18127200,ZNGA
-,ZNGA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/15/14,2.49,2.55,2.42,2.44,2.44,16925000,ZNGA
-,ZNGA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/28/11,13.63,13.92,13.49,13.76,13.76,134600,AOSL
-,AOSL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/29/13,8.84,8.84,8.58,8.6,8.6,47500,AOSL
-,AOSL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/11,3.93,5,3.93,4.24,4.24,120800,BITA
-,BITA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/13,32.439999,34.470001,29.219999,30.049999,30.049999,2175500,BITA
-,BITA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/15/11,35.400002,35.709999,34.41,34.720001,34.720001,2110500,BSFT
-,BSFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/17/13,29.559999,30.280001,28.99,29.139999,29.139999,211900,BSFT
-,BSFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/6/11,18,21.049999,17.85,20.15,20.15,103200,DQ
-,DQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/7/13,25.82,25.82,23.299999,23.77,23.77,138800,DQ
-,DQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/16/11,3.286,3.302,3.19,3.19,2.530874,1293000,SFUN
-,SFUN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/16/13,9.14,9.32,8.976,9.04,8.587488,4457000,SFUN
-,SFUN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/11/11,10.93,11.5,10.89,11.36,11.36,178200,IPHI
-,IPHI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/11/13,13.68,13.68,13.31,13.45,13.45,62900,IPHI
-,IPHI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/13/11,28.950001,28.99,27.59,28.5,28.5,715700,JKS
-,JKS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/13/13,7.1,7.86,7.1,7.33,7.33,999900,JKS
-,JKS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/23/11,8.06,8.11,7.93,8.11,8.11,111500,MXL
-,MXL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/25/13,6.2,6.28,5.95,6.12,6.12,26900,MXL
-,MXL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/11,17.17,17.82,14.69,14.92,14.92,4395500,NXPI
-,NXPI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/13,35.84,36.27,35.470001,35.779999,35.779999,2028700,NXPI
-,NXPI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/11/11,23.52,24.690001,23.309999,24.34,24.34,294500,RP
-,RP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/12/13,21.030001,21.4,20.719999,20.82,20.82,476400,RP
-,RP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/8/11,29.9,30,29.200001,29.4,29.4,3700,LEDS
-,LEDS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/9/13,9.7,10.3,9.5,10,10,6400,LEDS
-,LEDS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/11,20.08,20.4,20,20.4,20.4,3400,SGOC
-,SGOC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/13,4.6,4.8,4.48,4.52,4.52,10200,SGOC
-,SGOC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/21/11,14.34,14.78,14.01,14.78,14.78,27500,SPSC
-,SPSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/22/13,41.18,41.529999,40.220001,40.75,40.75,41600,SPSC
-,SPSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/30/11,10.02,10.275,9.99,10.215,9.880367,90800,SSNC
-,SSNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/1/13,14.97,15.05,14.595,14.775,14.290985,819600,SSNC
-,SSNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/30/11,6.85,7.32,6.85,7.11,7.11,441600,KEYW
-,KEYW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/30/13,13.42,13.53,13.3,13.45,13.45,124400,KEYW
-,KEYW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/10,22.110001,22.75,22.110001,22.74,20.37558,463900,AVGO
-,AVGO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/6/12,37.189999,37.439999,37,37.07,33.988209,1130300,AVGO
-,AVGO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/10,15.59,15.795,15.28,15.64,15.64,1320600,FTNT
-,FTNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/12,18.58,18.700001,18.24,18.6,18.6,2321300,FTNT
-,FTNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/30/10,26.75,27.67,26.190001,26.23,25.641722,119900,LOGM
-,LOGM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/2/12,30.440001,30.879999,30.290001,30.5,29.815958,246900,LOGM
-,LOGM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/24/10,7.665,7.97,7.65,7.945,7.945,481400,MDSO
-,MDSO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/25/12,14.875,15.04,14.705,14.995,14.995,146000,MDSO
-,MDSO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/15/10,26,26.74,25.58,26.65,26.65,277200,RST
-,RST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/16/12,9.66,9.81,9.5,9.75,9.75,74200,RST
-,RST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/6/10,27.67,28.01,27.540001,27.92,27.92,359400,VRSK
-,VRSK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/8/12,47.939999,48.419998,47.810001,48.34,48.34,402000,VRSK
-,VRSK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/1/09,7.1,7.23,6.97,7.13,7.13,243600,ERII
-,ERII,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/1/11,3.27,3.3,3.22,3.3,3.3,202800,ERII
-,ERII,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/09,3.7,3.95,3.64,3.85,3.85,1222200,SOL
-,SOL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/11,10.67,10.8,10.1,10.18,10.18,4319300,SOL
-,SOL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/1/08,20.450001,21.200001,20.120001,20.98,20.98,485100,CAVM
-,CAVM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/3/10,27.43,28.030001,27.139999,27.77,27.77,809200,CAVM
-,CAVM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/08,2.77,2.77,2.72,2.76,2.76,11600,GSIT
-,GSIT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/29/10,4.69,4.74,4.68,4.7,4.7,8200,GSIT
-,GSIT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/7/08,14.36,14.83,13.84,14.77,14.77,255700,MLNX
-,MLNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/8/10,18.110001,18.5,17.959999,18.07,18.07,145400,MLNX
-,MLNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/24/08,13.1,13.12,12.38,12.69,11.728075,239800,TYPE
-,TYPE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/26/10,8.46,8.51,8.35,8.4,7.763265,527400,TYPE
-,TYPE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/25/08,11.76,12.19,11.63,12,12,78400,PRO
-,PRO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/26/10,7.76,7.81,7.64,7.79,7.79,65900,PRO
-,PRO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/08,3.59,3.91,3.5,3.81,3.81,84600,RBCN
-,RBCN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/15/10,21.25,21.639999,21,21,21,548800,RBCN
-,RBCN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/08,8.51,8.51,8.25,8.3,8.3,45700,SMCI
-,SMCI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/29/10,16.780001,17.129999,16.709999,17.049999,17.049999,173600,SMCI
-,SMCI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/9/08,9.94,10.23,8.76,8.76,5.464097,63400,TGH
-,TGH,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/11/10,27.370001,27.42,27.15,27.25,19.542463,104000,TGH
-,TGH,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/4/08,6.97,7.32,6.85,7.21,7.21,144900,VRTU
-,VRTU,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/2/10,10.76,10.85,10.11,10.25,10.25,77000,VRTU
-,VRTU,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/14/08,36.290001,36.5,35.220001,36.380001,36.380001,997900,VMW
-,VMW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/16/10,76.889999,77.5,76.32,77.160004,77.160004,2143000,VMW
-,VMW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/9/08,193.300003,196,178.300003,184,184,422900,YGE
-,YGE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/7/10,88.900002,90.300003,83.800003,84.099998,84.099998,258400,YGE
-,YGE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/20/07,20.440001,21.690001,20.41,21.200001,21.200001,337700,AER
-,AER,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/20/09,8.42,8.44,8.26,8.36,8.36,79200,AER
-,AER,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/7/07,31.870001,32.02,31.41,31.74,18.282183,536400,AYR
-,AYR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/7/09,7.96,9.75,7.91,9.63,6.586948,1098200,AYR
-,AYR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/15/07,5.19,5.35,5.18,5.27,5.27,14800,ALLT
-,ALLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/16/09,4.2,4.26,3.95,4.05,4.05,34400,ALLT
-,ALLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/8/07,12.6,14.41,11.7,12.23,12.23,2291100,CSIQ
-,CSIQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/9/09,17.110001,17.200001,16.879999,17.1,17.1,893900,CSIQ
-,CSIQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/21/07,19.34,19.34,18.6,18.67,18.67,278800,CVLT
-,CVLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/21/09,21.049999,21.049999,19.719999,19.99,19.99,897800,CVLT
-,CVLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/16/07,199,212.630005,191.179993,212.630005,212.630005,6475400,FSLR
-,FSLR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/16/09,120.029999,125.220001,120.019997,123.410004,123.410004,3166800,FSLR
-,FSLR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/12/07,20.09,20.23,19.809999,20.02,20.02,160500,IPGP
-,IPGP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/14/09,17.389999,17.540001,17.07,17.1,17.1,81300,IPGP
-,IPGP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/10/07,2.37,2.37,2.31,2.34,2.34,29500,NLST
-,NLST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/10/09,6.17,6.43,5.6,5.7,5.7,9146800,NLST
-,NLST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/14/07,27.93,28,26.85,27.280001,27.280001,378000,SNCR
-,SNCR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/15/09,12.95,13.1,12.64,12.8,12.8,144700,SNCR
-,SNCR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/16/06,38.560001,39.139999,36.509998,37.860001,37.860001,1205400,SPWR
-,SPWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/08,24.5,28.52,24.059999,27.91,27.91,2077300,SPWR
-,SPWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/18/05,137.063538,139.343704,136.611481,139.090347,139.090347,23899900,GOOG
-,GOOG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/20/07,249.606552,249.656219,246.397415,247.351212,247.351212,5429600,GOOG
-,GOOG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/25/05,13.92,13.95,13.75,13.95,11.558267,77900,BLKB
-,BLKB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/25/07,22.66,23.24,22.450001,22.66,19.297506,508500,BLKB
-,BLKB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/29/05,8.78,8.86,8.63,8.63,6.174813,496800,INTX
-,INTX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/30/07,10.14,11.78,10.14,11.07,7.920648,115900,INTX
-,INTX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/05,15.85,15.93,14.91,15.05,13.780465,1093000,MPWR
-,MPWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/07,19.360001,19.57,19.040001,19.15,17.534611,261500,MPWR
-,MPWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/22/05,5.07,5.0975,4.815,4.9875,4.9875,4431200,CRM
-,CRM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/22/07,10.605,10.6425,10.075,10.1375,10.1375,15560000,CRM
-,CRM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/16/05,10.07,10.22,9.96,9.96,9.96,319300,SMI
-,SMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/16/07,6.15,6.22,6.1,6.13,6.13,112500,SMI
-,SMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/24/05,6.45,6.48,6.45,6.45,6.45,6900,UCTT
-,UCTT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/26/07,18.75,18.860001,18.35,18.469999,18.469999,272100,UCTT
-,UCTT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/04,4.56,4.56,4.42,4.42,4.42,13400,CALD
-,CALD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/20/06,6.4,7.27,6.38,6.96,6.96,637300,CALD
-,CALD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/28/04,5.84,5.88,5.6,5.75,3.846375,560400,IPAS
-,IPAS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/28/06,4.84,4.88,4.65,4.73,3.164062,622300,IPAS
-,IPAS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/24/04,21.42,21.5,21.299999,21.450001,20.87468,21300,SNX
-,SNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/24/06,22.940001,23.58,22.75,23.530001,22.898891,21100,SNX
-,SNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/22/03,4.495964,4.631691,4.411135,4.580794,3.538425,393000,AUO
-,AUO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/23/05,14.990647,15.115347,14.848134,14.990647,12.006917,1516700,AUO
-,AUO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/20/03,21,21.35,21,21.15,11.964472,47100,CPSI
-,CPSI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/20/05,33.080002,33.790001,32.740002,33.540001,19.939634,145900,CPSI
-,CPSI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/10/03,18.700001,18.950001,17.6,17.879999,11.463901,6240800,STX
-,STX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/12/05,19.35,19.49,19.219999,19.459999,12.941315,2260600,STX
-,STX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/03,4.746666,4.893333,4.666667,4.8,4.8,140400,SYNA
-,SYNA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/05,25.02,25.226667,23.766666,24.213333,24.213333,1434600,SYNA
-,SYNA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/15/03,20.85,21.049999,19.82,19.92,19.92,171000,VRNT
-,VRNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/16/05,31.48,33.580002,31.48,33.48,33.48,180300,VRNT
-,VRNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/24/02,12.95,14.02,12.92,13.71,13.71,357400,CCRN
-,CCRN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/25/04,15.31,15.47,15.3,15.3,15.3,69700,CCRN
-,CCRN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/16/02,9.72,9.86,9.37,9.65,9.65,101700,MOSY
-,MOSY,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/16/04,5.11,5.17,4.96,5.01,5.01,388600,MOSY
-,MOSY,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/8/02,6.32,6.39,6.15,6.29,6.29,71000,OMCL
-,OMCL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/9/04,13.95,14.25,13.86,14.16,14.16,213700,OMCL
-,OMCL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/30/02,5.95,6.04,5.95,6,6,27800,PDFS
-,PDFS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/30/04,8.22,8.63,8.09,8.21,8.21,19700,PDFS
-,PDFS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/10/01,54.400002,54.560001,51.080002,51.560001,51.560001,208700,ACLS
-,ACLS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/10/03,29.200001,29.200001,27.32,27.76,27.76,246300,ACLS
-,ACLS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/4/01,41.8125,42.5,36.625,38,26.409052,1109400,CCMP
-,CCMP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/4/03,45.529999,45.77,43.580002,43.98,30.565001,844000,CCMP
-,CCMP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/10/01,1.22,1.25,1.22,1.25,1.25,8000,HSTM
-,HSTM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/10/03,1.05,1.19,0.96,1.19,1.19,18600,HSTM
-,HSTM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/3/01,7.74,7.933333,7.193333,7.266667,4.206232,114000,ISSC
-,ISSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/4/03,4.826667,4.86,4.826667,4.86,2.813159,1000,ISSC
-,ISSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/3/01,49.5,50.040001,48,49.799999,49.799999,8800,LTRX
-,LTRX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/4/03,4.98,4.98,4.8,4.92,4.92,4200,LTRX
-,LTRX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/6/01,0.4375,0.4687,0.375,0.4375,0.4375,78400,LPSN
-,LPSN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/7/03,0.89,0.98,0.8,0.96,0.96,127100,LPSN
-,LPSN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/29/01,5.73,7.0025,5.6,6.725,6.019474,4164800,MRVL
-,MRVL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/30/03,8.56,8.675,8.44,8.5875,7.686577,12374000,MRVL
-,MRVL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/18/01,78.480003,82.199997,76.529999,81.419998,81.419998,265200,PXLW
-,PXLW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/19/03,21.450001,21.6,20.43,20.73,20.73,146300,PXLW
-,PXLW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/22/01,41.52,41.939999,39.900002,39.900002,32.374008,1200,QBAK
-,QBAK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/23/03,34.5,35.16,34.439999,34.739998,28.187296,1300,QBAK
-,QBAK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/23/01,16.3906,19.5,16.3906,18,18,220000,SLAB
-,SLAB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/24/03,27.440001,27.5,25.92,26.360001,26.360001,1217500,SLAB
-,SLAB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/20/01,10.1,10.45,9.75,10.25,10.25,59800,SMTX
-,SMTX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/21/03,3.9,3.9,3,3,3,21500,SMTX
-,SMTX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/18/01,3.78,3.91,3.35,3.75,3.75,125900,SPRT
-,SPRT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/18/03,7.1,7.12,6.28,6.88,6.88,732400,SPRT
-,SPRT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/24/01,6.46,7,6.46,7,7,151700,TTMI
-,TTMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/24/03,13.55,14.9,13.4,13.65,13.65,937400,TTMI
-,TTMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/12/17,46.060001,47.810001,44.98,47.709999,47.709999,1008100,ACIA
-,ACIA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/21/17,9.75,10,9.35,9.4,9.4,177500,AIRG
-,AIRG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/22/17,17.620001,17.709999,17.360001,17.42,17.42,177500,APTI
-,APTI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/7/17,4.918,5.09,4.78,5.09,5.09,2200,ATOM
-,ATOM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/27/17,34.669998,35.380001,34.450001,35.259998,35.259998,163500,BL
-,BL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/5/17,31.9,32.52,31.815001,32.419998,32.419998,900300,COUP
-,COUP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/15/17,23.35,23.530001,23.16,23.5,23.5,419600,EVBG
-,EVBG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/6/17,15.16,15.2,13.09,13.37,13.37,529900,MRAM
-,MRAM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/8/17,25.74,25.959999,24.530001,24.6,24.6,1715500,ICHR
-,ICHR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/17,34.16,34.235001,33.470001,33.860001,33.860001,383700,LN
-,LN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/10/17,1.23,1.47,1.02,1.039,1.039,2117900,MSDI
-,MSDI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/5/17,10.49,10.49,9.95,10.27,10.27,79400,NH
-,NH,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/29/17,22.41,22.73,22.25,22.389999,22.389999,2646700,NTNX
-,NTNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/27/17,15.28,15.364,15.15,15.26,15.26,191500,QTNA
-,QTNA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/20/17,8.87,9.07,8.86,9,9,121300,SCWX
-,SCWX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/20/17,62.029999,62.674999,58.5,59.810001,59.810001,1444700,TTD
-,TTD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/17,16.049999,17.129999,15.92,17.120001,16.173641,400500,TRTN
-,TRTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/17,29.25,29.450001,25.98,26.5,26.5,11108400,TWLO
-,TWLO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/17/17,18.530001,18.629999,18.18,18.51,18.51,827300,WBT
-,WBT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/2/17,2.8,2.98,2.76,2.95,2.95,27700,ZDGE
-,ZDGE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/26/16,2.13,2.27,2.03,2.035,2.035,59400,IOTS
-,IOTS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/27/16,25.18,25.18,23.57,23.860001,23.860001,230900,ALRM
-,ALRM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/27/16,13.8,13.95,13.34,13.46,13.46,35000,APPF
-,APPF,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/8/16,26.18,26.559999,25.67,26.530001,26.530001,439400,TEAM
-,TEAM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/22/16,10.6,11.04,10.4,10.59,10.59,1354700,BOX
-,BOX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/15/16,31.969999,32.490002,31.299999,31.42,31.016577,2424500,CSRA
-,CSRA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/26/16,16.75,17.01,16.27,16.309999,16.309999,55300,EXTN
-,EXTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/16/16,13.14,13.21,12.36,12.71,12.71,11439000,FIT
-,FIT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/30/16,31.959999,32.299999,31.5,32.029999,32.029999,288200,GDDY
-,GDDY,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/18/16,12.5192,12.548261,12.263469,12.478516,12.199061,20106300,HPE
-,HPE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/11/16,17.290001,17.57,16.809999,17.469999,17.469999,455400,INOV
-,INOV,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/14/16,19.25,19.25,18.775,18.9,18.9,287500,INST
-,INST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/28/16,4.88,5.15,4.81,5.11,5.11,26100,MJCO
-,MJCO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/16,18.110001,18.190001,17.700001,17.92,17.92,544200,MTCH
-,MTCH,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/24/16,15.99,16.139999,15.16,15.19,15.19,286500,MCRN
-,MCRN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/16,22.67,23.219999,22.492001,22.959999,22.959999,154700,MIME
-,MIME,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/19/16,8.39,8.62,8.38,8.62,8.62,48600,OOMA
-,OOMA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/5/16,14.75,15.08,14.65,14.83,14.83,1398300,PSTG
-,PSTG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/18/16,12.8,12.93,12.6,12.82,12.82,109900,RPD
-,RPD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/19/16,26.07,26.290001,25.700001,25.969999,25.969999,760400,SHOP
-,SHOP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/16,12.26,12.47,12.145,12.16,12.16,2935500,SQ
-,SQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/15,22.530001,22.709999,22.26,22.49,22.49,142500,TWOU
-,TWOU,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/17,37.389999,37.470001,36.299999,37.389999,37.389999,326400,TWOU
-,TWOU,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/15,4.27,4.45,4.27,4.45,4.45,174000,ATEN
-,ATEN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/17,9.18,9.31,9.11,9.22,9.22,230200,ATEN
-,ATEN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/15,4.28,4.37,4.25,4.31,4.31,118000,HIVE
-,HIVE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/17,4.21,4.33,4.21,4.28,4.28,106100,HIVE
-,HIVE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/15,8.97,9.46,8.95,9.23,9.23,53800,AMBR
-,AMBR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/17,7.35,7.5,7.28,7.35,7.35,80400,AMBR
-,AMBR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/5/15,73.599998,77.900002,73.5,77.089996,77.089996,1422600,ANET
-,ANET,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/5/17,152.259995,154.889999,152.259995,154.330002,154.330002,928500,ANET
-,ANET,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/13/15,7.39,7.93,7.39,7.85,7.85,920700,CSLT
-,CSLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/13/17,3.25,3.4,3.25,3.3,3.3,184000,CSLT
-,CSLT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/7/15,22.870001,23.09,21.98,22.67,22.67,859300,CMCM
-,CMCM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/8/17,10.82,10.95,10.65,10.73,10.73,301900,CMCM
-,CMCM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/23/15,50.02,53.200001,49.580002,52.509998,52.509998,2577600,CYBR
-,CYBR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/25/17,43.169998,43.299999,41.880001,41.990002,41.990002,480100,CYBR
-,CYBR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/15,9.75,10.1,9.62,9.93,9.93,73300,WATT
-,WATT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/27/17,15.26,15.58,15.023,15.28,15.28,285300,WATT
-,WATT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/17/15,34,35,33.439999,34.119999,34.119999,310900,GLOB
-,GLOB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/17/17,43.169998,43.82,42.669998,42.790001,42.790001,333400,GLOB
-,GLOB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/27/15,19.799999,19.969999,18.940001,19.65,19.65,938200,HDP
-,HDP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/27/17,16.190001,16.360001,15.95,16.280001,16.280001,608100,HDP
-,HDP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/8/15,47.310001,47.470001,46.540001,47.34,47.34,135600,HUBS
-,HUBS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/9/17,85.800003,86.400002,84,84.25,84.25,235700,HUBS
-,HUBS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/15/15,9.75,9.75,9.66,9.7,9.7,113400,INSE
-,INSE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/22/15,1.81,1.83,1.67,1.8,1.8,10600,MTBC
-,MTBC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/24/17,1.2,1.25,1.16,1.17,1.17,94800,MTBC
-,MTBC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/11/15,6.23,6.28,5.95,6.03,6.03,1182900,MOBL
-,MOBL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/12/17,5.4,5.95,5.35,5.95,5.95,2292000,MOBL
-,MOBL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/11/15,35.380001,36.43,35.119999,35.720001,35.720001,343000,NEWR
-,NEWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/11/17,59.93,60.849998,58.709999,60,60,961000,NEWR
-,NEWR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/14/15,31.530001,31.690001,30.09,30.49,30.49,267800,PAYC
-,PAYC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/18/15,31.559999,32.139999,31.18,31.48,31.48,242200,PCTY
-,PCTY,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/17,36.900002,37.439999,36.900002,37.279999,37.279999,122000,PCTY
-,PCTY,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/19/15,21.58,21.85,21.41,21.559999,21.559999,52100,QTWO
-,QTWO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/20/17,36.150002,36.450001,35.349998,35.799999,35.799999,265300,QTWO
-,QTWO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/28/15,3.9,4.61,3.65,4.29,4.29,329800,RESN
-,RESN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/16/15,25.799999,25.9,25.379999,25.42,24.184086,617900,SABR
-,SABR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/17/17,22.040001,22.27,21.77,21.950001,21.644815,11783500,SABR
-,SABR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/1/15,18.52,18.52,17.1,17.43,17.43,267400,RUBI
-,RUBI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/3/17,5.9,5.95,5.63,5.63,5.63,1192100,RUBI
-,RUBI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/15/15,14.17,14.66,14.06,14.25,14.25,767900,TRUE
-,TRUE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/15/17,17.5,17.68,17.34,17.58,17.58,2660800,TRUE
-,TRUE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/5/15,7.92,8,7.85,8,8,5400,UPLD
-,UPLD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/6/17,21.84,21.93,20.57,20.66,20.66,89700,UPLD
-,UPLD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/27/15,30.950001,31.49,30.74,30.889999,30.889999,131900,VRNS
-,VRNS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/27/17,27.700001,28.1,27.475,27.75,27.75,204800,VRNS
-,VRNS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/11/15,18.139999,18.25,17.5,18.030001,18.030001,162800,WK
-,WK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/11/17,21.200001,21.35,21.1,21.299999,21.299999,150900,WK
-,WK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/14/15,22.629999,22.945,22.360001,22.59,22.59,477800,ZEN
-,ZEN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/15/17,27.290001,27.558001,27.18,27.33,27.33,1024400,ZEN
-,ZEN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/30/14,37.049999,38.25,36.810001,38.099998,38.099998,458600,WUBA
-,WUBA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/31/16,42.490002,42.490002,41.459999,41.849998,41.849998,1091200,WUBA
-,WUBA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/25/14,17.75,17.940001,16.91,16.959999,16.959999,177700,AAOI
-,AAOI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/26/16,21.110001,21.6,20.85,21.01,21.01,409300,AAOI
-,AAOI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/10/14,36.709999,37.810001,35.82,36.220001,36.220001,851900,ATHM
-,ATHM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/12/16,27.110001,27.309999,26.540001,26.780001,26.780001,390000,ATHM
-,ATHM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/5/14,31.74,32.25,30.85,31.32,31.32,304600,CUDA
-,CUDA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/7/16,23.77,23.870001,23.559999,23.860001,23.860001,431400,CUDA
-,CUDA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/17/14,31.59,32.540001,31.370001,31.59,31.59,143600,BNFT
-,BNFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/19/16,38.880001,39.189999,38.25,38.91,38.91,106100,BNFT
-,BNFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/24/14,23.08,23.120001,22.639999,22.82,22.82,467200,COMM
-,COMM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/24/16,32.25,32.470001,31.77,31.98,31.98,1172200,COMM
-,COMM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/24/14,15.75,15.97,15.29,15.87,15.87,99800,EIGI
-,EIGI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/24/16,7.75,8.15,7.655,8.05,8.05,528500,EIGI
-,EIGI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/11/14,23.17,23.280001,22.700001,23.059999,21.277969,694100,EVTC
-,EVTC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/11/16,13.26,13.49,13,13.02,12.536052,366900,EVTC
-,EVTC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/19/14,34.779999,34.970001,33.099998,33.950001,33.950001,9968400,FEYE
-,FEYE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/19/16,14.08,14.171,13.38,13.58,13.58,4978100,FEYE
-,FEYE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/11/14,17.08,17.48,17.08,17.370001,17.370001,258800,GIMO
-,GIMO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/13/16,33.419998,33.73,32.849998,32.919998,32.919998,316200,GIMO
-,GIMO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/25/14,35.810001,36.400002,35.630001,36.119999,36.119999,137400,LXFT
-,LXFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/27/16,54.049999,54.84,51.299999,52.66,52.66,785800,LXFT
-,LXFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/21/14,76.93,77.980003,74.339996,75.599998,75.599998,28500,MRIN
-,MRIN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/21/16,21.42,21.91,21,21.07,21.07,18600,MRIN
-,MRIN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/8/14,9.53,9.64,9.2,9.47,8.670406,224000,MIXT
-,MIXT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/8/16,5.3,5.38,5.27,5.32,5.146722,6800,MIXT
-,MIXT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/19/14,11.41,11.6,11.23,11.48,11.48,59700,MODN
-,MODN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/21/16,10.89,10.9,10.67,10.68,10.68,37500,MODN
-,MODN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/4/14,24.16,24.639999,24,24.639999,24.639999,2300,IPDN
-,IPDN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/4/16,3.76,5.44,2.96,3.52,3.52,5200,IPDN
-,IPDN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/26/14,12.01,12.17,11.53,12.12,12.12,744600,RNG
-,RNG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/26/16,23.6,23.709999,23.280001,23.51,23.51,177800,RNG
-,RNG,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/12/14,16.889999,17.440001,16.700001,17.34,17.34,317600,SSNI
-,SSNI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/14/16,13.48,13.99,13.48,13.64,13.64,210900,SSNI
-,SSNI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/16/14,54.610001,54.869999,52.75,54.610001,54.610001,1520100,DATA
-,DATA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/16/16,48.330002,49.169998,47.59,48.41,48.41,1183100,DATA
-,DATA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/26/14,4.7,4.75,4.57,4.71,4.71,424400,TLRA
-,TLRA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/27/16,1.79,1.79,1.63,1.65,1.65,19100,TLRA
-,TLRA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/6/14,40.189999,41.349998,40.099998,40.84,40.84,16292100,TWTR
-,TWTR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/7/16,18.110001,18.690001,18.110001,18.41,18.41,26006200,TWTR
-,TWTR,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/15/14,25,26.9,24.75,26.6,26.6,794000,VEEV
-,VEEV,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/17/16,37.740002,38.299999,37.740002,37.970001,37.970001,591200,VEEV
-,VEEV,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/5/14,17.559999,18,17.030001,17.690001,17.690001,1341500,WIX
-,WIX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/7/16,39.75,41.400002,39.75,40.200001,40.200001,409000,WIX
-,WIX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/6/14,5.98,6.21,5.86,5.89,4.806676,140100,YUME
-,YUME,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/8/16,3.48,3.54,3.43,3.5,2.856259,73600,YUME
-,YUME,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/9/13,18.889999,19.15,17.549999,18.09,18.09,1446800,AMBA
-,AMBA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/9/15,56.900002,59.959999,56.509998,57.169998,57.169998,2520800,AMBA
-,AMBA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/25/13,6.55,6.92,6.54,6.57,6.57,668900,BV
-,BV,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/23/15,9.15,9.25,9,9.15,9.15,277600,BV
-,BV,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/7/13,21.549999,21.59,21.129999,21.52,21.52,39600,EPAM
-,EPAM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/9/15,50.869999,51.66,50.68,51,51,270900,EPAM
-,EPAM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/17/13,26.4,26.6,26.200001,26.25,26.25,29462700,FB
-,FB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/18/15,80.330002,81.379997,80.230003,80.879997,80.879997,21077200,FB
-,FB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/24/13,33.009998,33.189999,32.490002,32.970001,32.970001,191000,GWRE
-,GWRE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/26/15,50.689999,51.490002,49.759998,51.450001,51.450001,278800,GWRE
-,GWRE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/14/13,16.139999,16.4,16.120001,16.309999,16.309999,57900,MTSI
-,MTSI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/16/15,33.599998,35.279999,33.450001,35.16,35.16,533800,MTSI
-,MTSI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/19/13,49,50,48.650002,49.810001,49.810001,1420700,PANW
-,PANW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/20/15,190.5,191.550003,188.320007,190.029999,190.029999,1156700,PANW
-,PANW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/19/13,17.1,17.26,16.950001,17.110001,17.110001,86400,PFPT
-,PFPT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/20/15,57.860001,58.650002,57.240002,57.630001,57.630001,532200,PFPT
-,PFPT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/27/13,21.75,22.18,21.559999,21.889999,21.889999,143100,QLYS
-,QLYS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/28/15,29.49,29.49,28.16,28.48,28.48,431700,QLYS
-,QLYS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/13,21.48,21.48,21.18,21.23,21.23,96500,RXN
-,RXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/30/15,26.6,26.85,26.450001,26.690001,26.690001,850200,RXN
-,RXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/28/13,40.860001,41.349998,40.209999,40.389999,40.389999,4739000,NOW
-,NOW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/29/15,75.809998,76.610001,73.459999,73.769997,73.769997,1309300,NOW
-,NOW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/10/13,68.360001,72.300003,68.040001,72.040001,72.040001,193100,SSTK
-,SSTK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/12/15,33.619999,34.240002,33.400002,34.040001,34.040001,494100,SSTK
-,SSTK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/13,42.419998,42.419998,40.790001,41.02,41.02,1040700,SPLK
-,SPLK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/20/15,63.310001,64.349998,61.900002,63.740002,63.740002,1518500,SPLK
-,SPLK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/12/13,5.57,5.68,5.5,5.64,5.64,377400,SYNC
-,SYNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/12/15,2.15,2.15,2.09,2.13,2.13,52600,SYNC
-,SYNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/12,24.6,24.6,24.139999,24.24,23.591368,216400,AL
-,AL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/10/12,7.8,7.84,7.61,7.75,7.75,49500,CARB
-,CARB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/11/14,10.83,11.22,10.7,10.96,10.96,81400,CARB
-,CARB,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/16/12,20.969999,20.969999,20.27,20.459999,20.459999,528000,CSOD
-,CSOD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/17/14,56.490002,56.869999,55.25,56.049999,56.049999,438300,CSOD
-,CSOD,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/16/12,11.99,12.1,11.53,12.06,12.06,55300,ELLI
-,ELLI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/14/14,24.08,24.75,23.959999,24.49,24.49,334000,ELLI
-,ELLI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/5/12,3.87,4.05,3.77,3.9,3.9,26650300,GRPN
-,GRPN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/3/14,7.32,7.66,7.21,7.37,7.37,31069200,GRPN
-,GRPN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/12,6.99,7.4,6.99,7.38,7.38,42500,IMI
-,IMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/14,2.33,2.33,2.23,2.26,2.26,15800,IMI
-,IMI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/27/12,14.29,14.37,14.2,14.26,14.26,81900,INXN
-,INXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/27/14,25.08,25.110001,24.280001,24.49,24.49,235600,INXN
-,INXN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/12/12,11.7,11.79,11.23,11.34,11.34,238700,MX
-,MX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/10/14,15.16,15.17,14.66,14.79,14.79,291200,MX
-,MX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/1/12,5.55,5.74,5.49,5.58,5.58,49900,NPTN
-,NPTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/3/14,7.29,7.34,7.09,7.25,7.25,241500,NPTN
-,NPTN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/4/12,11.9,11.9,11.48,11.75,11.75,400400,NQ
-,NQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/5/14,11.91,12.26,11.55,11.7,11.7,1425500,NQ
-,NQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/3/12,6.6,6.65,6.19,6.34,6.34,7818600,RENN
-,RENN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/5/14,3.25,3.33,3.25,3.32,3.32,278300,RENN
-,RENN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/18/12,2.41,2.5,2.33,2.35,2.35,119400,SQNS
-,SQNS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/15/12,12.59,12.8,12.41,12.58,12.340456,71500,UBNT
-,UBNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/13/14,32.82,33.099998,31.25,31.77,31.599571,1055000,UBNT
-,UBNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/23/12,20.860001,21.030001,20.6,20.92,20.92,1426600,YNDX
-,YNDX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/23/14,31,32.310001,30.879999,32.209999,32.209999,6143200,YNDX
-,YNDX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/17/12,2.54,2.55,2.41,2.44,2.44,18127200,ZNGA
-,ZNGA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/15/14,2.49,2.55,2.42,2.44,2.44,16925000,ZNGA
-,ZNGA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/28/11,13.63,13.92,13.49,13.76,13.76,134600,AOSL
-,AOSL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/29/13,8.84,8.84,8.58,8.6,8.6,47500,AOSL
-,AOSL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/11,3.93,5,3.93,4.24,4.24,120800,BITA
-,BITA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/18/13,32.439999,34.470001,29.219999,30.049999,30.049999,2175500,BITA
-,BITA,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/15/11,35.400002,35.709999,34.41,34.720001,34.720001,2110500,BSFT
-,BSFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/17/13,29.559999,30.280001,28.99,29.139999,29.139999,211900,BSFT
-,BSFT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/6/11,18,21.049999,17.85,20.15,20.15,103200,DQ
-,DQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/7/13,25.82,25.82,23.299999,23.77,23.77,138800,DQ
-,DQ,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/16/11,3.286,3.302,3.19,3.19,2.530874,1293000,SFUN
-,SFUN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/16/13,9.14,9.32,8.976,9.04,8.587488,4457000,SFUN
-,SFUN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/11/11,10.93,11.5,10.89,11.36,11.36,178200,IPHI
-,IPHI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/11/13,13.68,13.68,13.31,13.45,13.45,62900,IPHI
-,IPHI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/13/11,28.950001,28.99,27.59,28.5,28.5,715700,JKS
-,JKS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/13/13,7.1,7.86,7.1,7.33,7.33,999900,JKS
-,JKS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/23/11,8.06,8.11,7.93,8.11,8.11,111500,MXL
-,MXL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/25/13,6.2,6.28,5.95,6.12,6.12,26900,MXL
-,MXL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/11,17.17,17.82,14.69,14.92,14.92,4395500,NXPI
-,NXPI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/13,35.84,36.27,35.470001,35.779999,35.779999,2028700,NXPI
-,NXPI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/11/11,23.52,24.690001,23.309999,24.34,24.34,294500,RP
-,RP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/12/13,21.030001,21.4,20.719999,20.82,20.82,476400,RP
-,RP,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/8/11,29.9,30,29.200001,29.4,29.4,3700,LEDS
-,LEDS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-12/9/13,9.7,10.3,9.5,10,10,6400,LEDS
-,LEDS,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/11,20.08,20.4,20,20.4,20.4,3400,SGOC
-,SGOC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/3/13,4.6,4.8,4.48,4.52,4.52,10200,SGOC
-,SGOC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/21/11,14.34,14.78,14.01,14.78,14.78,27500,SPSC
-,SPSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/22/13,41.18,41.529999,40.220001,40.75,40.75,41600,SPSC
-,SPSC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/30/11,10.02,10.275,9.99,10.215,9.880367,90800,SSNC
-,SSNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/1/13,14.97,15.05,14.595,14.775,14.290985,819600,SSNC
-,SSNC,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/30/11,6.85,7.32,6.85,7.11,7.11,441600,KEYW
-,KEYW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-9/30/13,13.42,13.53,13.3,13.45,13.45,124400,KEYW
-,KEYW,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/5/10,22.110001,22.75,22.110001,22.74,20.37558,463900,AVGO
-,AVGO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-8/6/12,37.189999,37.439999,37,37.07,33.988209,1130300,AVGO
-,AVGO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/10,15.59,15.795,15.28,15.64,15.64,1320600,FTNT
-,FTNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/19/12,18.58,18.700001,18.24,18.6,18.6,2321300,FTNT
-,FTNT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/30/10,26.75,27.67,26.190001,26.23,25.641722,119900,LOGM
-,LOGM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/2/12,30.440001,30.879999,30.290001,30.5,29.815958,246900,LOGM
-,LOGM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/24/10,7.665,7.97,7.65,7.945,7.945,481400,MDSO
-,MDSO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-6/25/12,14.875,15.04,14.705,14.995,14.995,146000,MDSO
-,MDSO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/15/10,26,26.74,25.58,26.65,26.65,277200,RST
-,RST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-4/16/12,9.66,9.81,9.5,9.75,9.75,74200,RST
-,RST,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/6/10,27.67,28.01,27.540001,27.92,27.92,359400,VRSK
-,VRSK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-10/8/12,47.939999,48.419998,47.810001,48.34,48.34,402000,VRSK
-,VRSK,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/1/09,7.1,7.23,6.97,7.13,7.13,243600,ERII
-,ERII,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/1/11,3.27,3.3,3.22,3.3,3.3,202800,ERII
-,ERII,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/09,3.7,3.95,3.64,3.85,3.85,1222200,SOL
-,SOL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-1/28/11,10.67,10.8,10.1,10.18,10.18,4319300,SOL
-,SOL,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/1/08,20.450001,21.200001,20.120001,20.98,20.98,485100,CAVM
-,CAVM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-5/3/10,27.43,28.030001,27.139999,27.77,27.77,809200,CAVM
-,CAVM,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/08,2.77,2.77,2.72,2.76,2.76,11600,GSIT
-,GSIT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/29/10,4.69,4.74,4.68,4.7,4.7,8200,GSIT
-,GSIT,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/7/08,14.36,14.83,13.84,14.77,14.77,255700,MLNX
-,MLNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-2/8/10,18.110001,18.5,17.959999,18.07,18.07,145400,MLNX
-,MLNX,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/24/08,13.1,13.12,12.38,12.69,11.728075,239800,TYPE
-,TYPE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/26/10,8.46,8.51,8.35,8.4,7.763265,527400,TYPE
-,TYPE,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/25/08,11.76,12.19,11.63,12,12,78400,PRO
-,PRO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-7/26/10,7.76,7.81,7.64,7.79,7.79,65900,PRO
-,PRO,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/17/08,3.59,3.91,3.5,3.81,3.81,84600,RBCN
-,RBCN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-11/15/10,21.25,21.639999,21,21,21,548800,RBCN
-,RBCN,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/28/08,8.51,8.51,8.25,8.3,8.3,45700,SMCI
-,SMCI,,,,,,
-Date,Open,High,Low,Close,Adj Close,Volume,Ticker
-3/29/10,16.780001,17.129999,16.709999,17.049999,17.049999,173600,SMCI
-,SMCI,,,,,,
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-05-12,46.060001,47.810001,44.980000,47.709999,47.709999,1008100,ACIA,1yr
+,ACIA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-08-11,10.030000,10.200000,9.360000,9.630000,9.630000,212300,AIRG,1yr
+,AIRG,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-09-22,17.620001,17.709999,17.360001,17.420000,17.420000,177500,APTI,1yr
+,APTI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-08-07,4.918000,5.090000,4.780000,5.090000,5.090000,2200,ATOM,1yr
+,ATOM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-27,34.669998,35.380001,34.450001,35.259998,35.259998,163500,BL,1yr
+,BL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-05,31.900000,32.520000,31.815001,32.419998,32.419998,900300,COUP,1yr
+,COUP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-09-15,23.350000,23.530001,23.160000,23.500000,23.500000,419600,EVBG,1yr
+,EVBG,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-06,15.160000,15.200000,13.090000,13.370000,13.370000,529900,MRAM,1yr
+,MRAM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-12-08,25.740000,25.959999,24.530001,24.600000,24.600000,1715500,ICHR,1yr
+,ICHR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-01-03,34.160000,34.235001,33.470001,33.860001,33.860001,383700,LN,1yr
+,LN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-07-10,1.230000,1.470000,1.020000,1.039000,1.039000,2117900,MSDI,1yr
+,MSDI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-01-05,10.490000,10.490000,9.950000,10.270000,10.270000,79400,NH,1yr
+,NH,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-09-29,22.410000,22.730000,22.250000,22.389999,22.389999,2646700,NTNX,1yr
+,NTNX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-27,15.280000,15.364000,15.150000,15.260000,15.260000,191500,QTNA,1yr
+,QTNA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-04-20,8.870000,9.070000,8.860000,9.000000,9.000000,121300,SCWX,1yr
+,SCWX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-09-20,62.029999,62.674999,58.500000,59.810001,59.810001,1444700,TTD,1yr
+,TTD,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-01-03,16.049999,17.129999,15.920000,17.120001,16.173641,400500,TRTN,1yr
+,TRTN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-01-03,29.250000,29.450001,25.980000,26.500000,26.500000,11108400,TWLO,1yr
+,TWLO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-02-17,18.530001,18.629999,18.180000,18.510000,18.510000,827300,WBT,1yr
+,WBT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-06-02,2.800000,2.980000,2.760000,2.950000,2.950000,27700,ZDGE,1yr
+,ZDGE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-26,2.130000,2.270000,2.030000,2.035000,2.035000,59400,IOTS,1yr
+,IOTS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-27,25.180000,25.180000,23.570000,23.860001,23.860001,230900,ALRM,1yr
+,ALRM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-27,13.800000,13.950000,13.340000,13.460000,13.460000,35000,APPF,1yr
+,APPF,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-12-08,26.180000,26.559999,25.670000,26.530001,26.530001,439400,TEAM,1yr
+,TEAM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-01-22,10.600000,11.040000,10.400000,10.590000,10.590000,1354700,BOX,1yr
+,BOX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-15,31.969999,32.490002,31.299999,31.420000,31.016577,2424500,CSRA,1yr
+,CSRA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-26,16.750000,17.010000,16.270000,16.309999,16.309999,55300,EXTN,1yr
+,EXTN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-16,13.140000,13.210000,12.360000,12.710000,12.710000,11439000,FIT,1yr
+,FIT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-30,31.959999,32.299999,31.500000,32.029999,32.029999,288200,GDDY,1yr
+,GDDY,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-18,12.519200,12.548261,12.263469,12.478516,12.199061,20106300,HPE,1yr
+,HPE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-02-11,17.290001,17.570000,16.809999,17.469999,17.469999,455400,INOV,1yr
+,INOV,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-14,19.250000,19.250000,18.775000,18.900000,18.900000,287500,INST,1yr
+,INST,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-28,4.880000,5.150000,4.810000,5.110000,5.110000,26100,MJCO,1yr
+,MJCO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-18,18.110001,18.190001,17.700001,17.920000,17.920000,544200,MTCH,1yr
+,MTCH,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-24,15.990000,16.139999,15.160000,15.190000,15.190000,286500,MCRN,1yr
+,MCRN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-18,22.670000,23.219999,22.492001,22.959999,22.959999,154700,MIME,1yr
+,MIME,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-07-19,8.390000,8.620000,8.380000,8.620000,8.620000,48600,OOMA,1yr
+,OOMA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-05,14.750000,15.080000,14.650000,14.830000,14.830000,1398300,PSTG,1yr
+,PSTG,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-07-18,12.800000,12.930000,12.600000,12.820000,12.820000,109900,RPD,1yr
+,RPD,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-05-19,26.070000,26.290001,25.700001,25.969999,25.969999,760400,SHOP,1yr
+,SHOP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-18,12.260000,12.470000,12.145000,12.160000,12.160000,2935500,SQ,1yr
+,SQ,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-27,22.530001,22.709999,22.260000,22.490000,22.490000,142500,TWOU,1yr
+,TWOU,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-27,37.389999,37.470001,36.299999,37.389999,37.389999,326400,TWOU,3yr
+,TWOU,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-20,4.270000,4.450000,4.270000,4.450000,4.450000,174000,ATEN,1yr
+,ATEN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-20,9.180000,9.310000,9.110000,9.220000,9.220000,230200,ATEN,3yr
+,ATEN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-27,4.280000,4.370000,4.250000,4.310000,4.310000,118000,HIVE,1yr
+,HIVE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-27,4.210000,4.330000,4.210000,4.280000,4.280000,106100,HIVE,3yr
+,HIVE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-20,8.970000,9.460000,8.950000,9.230000,9.230000,53800,AMBR,1yr
+,AMBR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-20,7.350000,7.500000,7.280000,7.350000,7.350000,80400,AMBR,3yr
+,AMBR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-06-05,73.599998,77.900002,73.500000,77.089996,77.089996,1422600,ANET,1yr
+,ANET,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-06-05,152.259995,154.889999,152.259995,154.330002,154.330002,928500,ANET,3yr
+,ANET,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-13,7.390000,7.930000,7.390000,7.850000,7.850000,920700,CSLT,1yr
+,CSLT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-13,3.250000,3.400000,3.250000,3.300000,3.300000,184000,CSLT,3yr
+,CSLT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-07,22.870001,23.090000,21.980000,22.670000,22.670000,859300,CMCM,1yr
+,CMCM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-05-08,10.820000,10.950000,10.650000,10.730000,10.730000,301900,CMCM,3yr
+,CMCM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-27,9.750000,10.100000,9.620000,9.930000,9.930000,73300,WATT,1yr
+,WATT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-27,15.260000,15.580000,15.023000,15.280000,15.280000,285300,WATT,3yr
+,WATT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-07-17,34.000000,35.000000,33.439999,34.119999,34.119999,310900,GLOB,1yr
+,GLOB,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-07-17,43.169998,43.820000,42.669998,42.790001,42.790001,333400,GLOB,3yr
+,GLOB,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-10-27,19.799999,19.969999,18.940001,19.650000,19.650000,938200,HDP,1yr
+,HDP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-27,16.190001,16.360001,15.950000,16.280001,16.280001,608100,HDP,3yr
+,HDP,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-10-08,47.310001,47.470001,46.540001,47.340000,47.340000,135600,HUBS,1yr
+,HUBS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-09,85.800003,86.400002,84.000000,84.250000,84.250000,235700,HUBS,3yr
+,HUBS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-12-15,9.750000,9.750000,9.660000,9.700000,9.700000,113400,INSE,1yr
+,INSE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-07-22,1.810000,1.830000,1.670000,1.800000,1.800000,10600,MTBC,1yr
+,MTBC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-07-24,1.200000,1.250000,1.160000,1.170000,1.170000,94800,MTBC,3yr
+,MTBC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-06-11,6.230000,6.280000,5.950000,6.030000,6.030000,1182900,MOBL,1yr
+,MOBL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-06-12,5.400000,5.950000,5.350000,5.950000,5.950000,2292000,MOBL,3yr
+,MOBL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-12-11,35.380001,36.430000,35.119999,35.720001,35.720001,343000,NEWR,1yr
+,NEWR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-12-11,59.930000,60.849998,58.709999,60.000000,60.000000,961000,NEWR,3yr
+,NEWR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-14,31.530001,31.690001,30.090000,30.490000,30.490000,267800,PAYC,1yr
+,PAYC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-18,31.559999,32.139999,31.180000,31.480000,31.480000,242200,PCTY,1yr
+,PCTY,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-20,36.900002,37.439999,36.900002,37.279999,37.279999,122000,PCTY,3yr
+,PCTY,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-19,21.580000,21.850000,21.410000,21.559999,21.559999,52100,QTWO,1yr
+,QTWO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-20,36.150002,36.450001,35.349998,35.799999,35.799999,265300,QTWO,3yr
+,QTWO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-28,3.900000,4.610000,3.650000,4.290000,4.290000,329800,RESN,1yr
+,RESN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-16,25.799999,25.900000,25.379999,25.420000,24.184086,617900,SABR,1yr
+,SABR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-04-17,22.040001,22.270000,21.770000,21.950001,21.644815,11783500,SABR,3yr
+,SABR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-01,18.520000,18.520000,17.100000,17.430000,17.430000,267400,RUBI,1yr
+,RUBI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-04-03,5.900000,5.950000,5.630000,5.630000,5.630000,1192100,RUBI,3yr
+,RUBI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-15,14.170000,14.660000,14.060000,14.250000,14.250000,767900,TRUE,1yr
+,TRUE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-05-15,17.500000,17.680000,17.340000,17.580000,17.580000,2660800,TRUE,3yr
+,TRUE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-11-05,7.920000,8.000000,7.850000,8.000000,8.000000,5400,UPLD,1yr
+,UPLD,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-11-06,21.840000,21.930000,20.570000,20.660000,20.660000,89700,UPLD,3yr
+,UPLD,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-02-27,30.950001,31.490000,30.740000,30.889999,30.889999,131900,VRNS,1yr
+,VRNS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-02-27,27.700001,28.100000,27.475000,27.750000,27.750000,204800,VRNS,3yr
+,VRNS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-12-11,18.139999,18.250000,17.500000,18.030001,18.030001,162800,WK,1yr
+,WK,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-12-11,21.200001,21.350000,21.100000,21.299999,21.299999,150900,WK,3yr
+,WK,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-14,22.629999,22.945000,22.360001,22.590000,22.590000,477800,ZEN,1yr
+,ZEN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-05-15,27.290001,27.558001,27.180000,27.330000,27.330000,1024400,ZEN,3yr
+,ZEN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-30,37.049999,38.250000,36.810001,38.099998,38.099998,458600,WUBA,1yr
+,WUBA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-31,42.490002,42.490002,41.459999,41.849998,41.849998,1091200,WUBA,3yr
+,WUBA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-09-25,17.750000,17.940001,16.910000,16.959999,16.959999,177700,AAOI,1yr
+,AAOI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-09-26,21.110001,21.600000,20.850000,21.010000,21.010000,409300,AAOI,3yr
+,AAOI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-12-10,36.709999,37.810001,35.820000,36.220001,36.220001,851900,ATHM,1yr
+,ATHM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-12-12,27.110001,27.309999,26.540001,26.780001,26.780001,390000,ATHM,3yr
+,ATHM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-05,31.740000,32.250000,30.850000,31.320000,31.320000,304600,CUDA,1yr
+,CUDA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-07,23.770000,23.870001,23.559999,23.860001,23.860001,431400,CUDA,3yr
+,CUDA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-09-17,31.590000,32.540001,31.370001,31.590000,31.590000,143600,BNFT,1yr
+,BNFT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-09-19,38.880001,39.189999,38.250000,38.910000,38.910000,106100,BNFT,3yr
+,BNFT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-24,23.080000,23.120001,22.639999,22.820000,22.820000,467200,COMM,1yr
+,COMM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-24,32.250000,32.470001,31.770000,31.980000,31.980000,1172200,COMM,3yr
+,COMM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-24,15.750000,15.970000,15.290000,15.870000,15.870000,99800,EIGI,1yr
+,EIGI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-24,7.750000,8.150000,7.655000,8.050000,8.050000,528500,EIGI,3yr
+,EIGI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-04-11,23.170000,23.280001,22.700001,23.059999,21.277969,694100,EVTC,1yr
+,EVTC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-04-11,13.260000,13.490000,13.000000,13.020000,12.536052,366900,EVTC,3yr
+,EVTC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-09-19,34.779999,34.970001,33.099998,33.950001,33.950001,9968400,FEYE,1yr
+,FEYE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-09-19,14.080000,14.171000,13.380000,13.580000,13.580000,4978100,FEYE,3yr
+,FEYE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-06-11,17.080000,17.480000,17.080000,17.370001,17.370001,258800,GIMO,1yr
+,GIMO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-13,33.419998,33.730000,32.849998,32.919998,32.919998,316200,GIMO,3yr
+,GIMO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-06-25,35.810001,36.400002,35.630001,36.119999,36.119999,137400,LXFT,1yr
+,LXFT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-27,54.049999,54.840000,51.299999,52.660000,52.660000,785800,LXFT,3yr
+,LXFT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-21,76.930000,77.980003,74.339996,75.599998,75.599998,28500,MRIN,1yr
+,MRIN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-21,21.420000,21.910000,21.000000,21.070000,21.070000,18600,MRIN,3yr
+,MRIN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-08-08,9.530000,9.640000,9.200000,9.470000,8.670406,224000,MIXT,1yr
+,MIXT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-08-08,5.300000,5.380000,5.270000,5.320000,5.146722,6800,MIXT,3yr
+,MIXT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-19,11.410000,11.600000,11.230000,11.480000,11.480000,59700,MODN,1yr
+,MODN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-21,10.890000,10.900000,10.670000,10.680000,10.680000,37500,MODN,3yr
+,MODN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-04,24.160000,24.639999,24.000000,24.639999,24.639999,2300,IPDN,1yr
+,IPDN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-04,3.760000,5.440000,2.960000,3.520000,3.520000,5200,IPDN,3yr
+,IPDN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-09-26,12.010000,12.170000,11.530000,12.120000,12.120000,744600,RNG,1yr
+,RNG,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-09-26,23.600000,23.709999,23.280001,23.510000,23.510000,177800,RNG,3yr
+,RNG,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-12,16.889999,17.440001,16.700001,17.340000,17.340000,317600,SSNI,1yr
+,SSNI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-14,13.480000,13.990000,13.480000,13.640000,13.640000,210900,SSNI,3yr
+,SSNI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-05-16,54.610001,54.869999,52.750000,54.610001,54.610001,1520100,DATA,1yr
+,DATA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-05-16,48.330002,49.169998,47.590000,48.410000,48.410000,1183100,DATA,3yr
+,DATA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-06-26,4.700000,4.750000,4.570000,4.710000,4.710000,424400,TLRA,1yr
+,TLRA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-06-27,1.790000,1.790000,1.630000,1.650000,1.650000,19100,TLRA,3yr
+,TLRA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-06,40.189999,41.349998,40.099998,40.840000,40.840000,16292100,TWTR,1yr
+,TWTR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-07,18.110001,18.690001,18.110001,18.410000,18.410000,26006200,TWTR,3yr
+,TWTR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-15,25.000000,26.900000,24.750000,26.600000,26.600000,794000,VEEV,1yr
+,VEEV,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-17,37.740002,38.299999,37.740002,37.970001,37.970001,591200,VEEV,3yr
+,VEEV,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-05,17.559999,18.000000,17.030001,17.690001,17.690001,1341500,WIX,1yr
+,WIX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-07,39.750000,41.400002,39.750000,40.200001,40.200001,409000,WIX,3yr
+,WIX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-08-06,5.980000,6.210000,5.860000,5.890000,4.806676,140100,YUME,1yr
+,YUME,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-08-08,3.480000,3.540000,3.430000,3.500000,2.856259,73600,YUME,3yr
+,YUME,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-10-09,18.889999,19.150000,17.549999,18.090000,18.090000,1446800,AMBA,1yr
+,AMBA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-10-09,56.900002,59.959999,56.509998,57.169998,57.169998,2520800,AMBA,3yr
+,AMBA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-09,49.919998,50.689999,49.560001,50.349998,50.349998,886700,AMBA,5yr
+,AMBA,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-02-25,6.550000,6.920000,6.540000,6.570000,6.570000,668900,BV,1yr
+,BV,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-02-23,9.150000,9.250000,9.000000,9.150000,9.150000,277600,BV,3yr
+,BV,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-02-23,4.650000,4.650000,4.450000,4.600000,4.600000,441000,BV,5yr
+,BV,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-02-07,21.549999,21.590000,21.129999,21.520000,21.520000,39600,EPAM,1yr
+,EPAM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-02-09,50.869999,51.660000,50.680000,51.000000,51.000000,270900,EPAM,3yr
+,EPAM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-02-07,65.029999,65.919998,64.860001,65.839996,65.839996,353800,EPAM,5yr
+,EPAM,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-05-17,26.400000,26.600000,26.200001,26.250000,26.250000,29462700,FB,1yr
+,FB,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-18,80.330002,81.379997,80.230003,80.879997,80.879997,21077200,FB,3yr
+,FB,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-05-17,148.000000,148.669998,144.419998,144.850006,144.850006,28300100,FB,5yr
+,FB,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-01-24,33.009998,33.189999,32.490002,32.970001,32.970001,191000,GWRE,1yr
+,GWRE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-01-26,50.689999,51.490002,49.759998,51.450001,51.450001,278800,GWRE,3yr
+,GWRE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-01-24,52.730000,52.950001,52.029999,52.750000,52.750000,291100,GWRE,5yr
+,GWRE,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-03-14,16.139999,16.400000,16.120001,16.309999,16.309999,57900,MTSI,1yr
+,MTSI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-16,33.599998,35.279999,33.450001,35.160000,35.160000,533800,MTSI,3yr
+,MTSI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-14,46.049999,46.049999,45.410000,45.610001,45.610001,365300,MTSI,5yr
+,MTSI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-07-19,49.000000,50.000000,48.650002,49.810001,49.810001,1420700,PANW,1yr
+,PANW,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-07-20,190.500000,191.550003,188.320007,190.029999,190.029999,1156700,PANW,3yr
+,PANW,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-07-19,140.000000,142.380005,139.660004,140.770004,140.770004,765500,PANW,5yr
+,PANW,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-04-19,17.100000,17.260000,16.950001,17.110001,17.110001,86400,PFPT,1yr
+,PFPT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-20,57.860001,58.650002,57.240002,57.630001,57.630001,532200,PFPT,3yr
+,PFPT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-04-19,77.209999,78.220001,76.300003,77.620003,77.620003,688600,PFPT,5yr
+,PFPT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-09-27,21.750000,22.180000,21.559999,21.889999,21.889999,143100,QLYS,1yr
+,QLYS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-09-28,29.490000,29.490000,28.160000,28.480000,28.480000,431700,QLYS,3yr
+,QLYS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-09-27,51.500000,53.099998,51.230000,52.900002,52.900002,225600,QLYS,5yr
+,QLYS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-03-28,21.480000,21.480000,21.180000,21.230000,21.230000,96500,RXN,1yr
+,RXN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-30,26.600000,26.850000,26.450001,26.690001,26.690001,850200,RXN,3yr
+,RXN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-03-28,22.379999,22.910000,22.190001,22.740000,22.740000,884100,RXN,5yr
+,RXN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-06-28,40.860001,41.349998,40.209999,40.389999,40.389999,4739000,NOW,1yr
+,NOW,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-06-29,75.809998,76.610001,73.459999,73.769997,73.769997,1309300,NOW,3yr
+,NOW,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-06-28,107.470001,109.129997,106.709999,108.809998,108.809998,2611300,NOW,5yr
+,NOW,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-10-10,68.360001,72.300003,68.040001,72.040001,72.040001,193100,SSTK,1yr
+,SSTK,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-10-12,33.619999,34.240002,33.400002,34.040001,34.040001,494100,SSTK,3yr
+,SSTK,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-10-10,33.820000,34.000000,33.529999,33.820000,33.820000,169800,SSTK,5yr
+,SSTK,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-04-18,42.419998,42.419998,40.790001,41.020000,41.020000,1040700,SPLK,1yr
+,SPLK,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-20,63.310001,64.349998,61.900002,63.740002,63.740002,1518500,SPLK,3yr
+,SPLK,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-04-18,60.060001,61.360001,59.810001,61.099998,61.099998,919600,SPLK,5yr
+,SPLK,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-02-12,5.570000,5.680000,5.500000,5.640000,5.640000,377400,SYNC,1yr
+,SYNC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-02-12,2.150000,2.150000,2.090000,2.130000,2.130000,52600,SYNC,3yr
+,SYNC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2017-02-13,3.000000,3.150000,3.000000,3.150000,3.150000,149200,SYNC,5yr
+,SYNC,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-04-18,24.600000,24.600000,24.139999,24.240000,23.591368,216400,AL,1yr
+,AL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-08-10,7.800000,7.840000,7.610000,7.750000,7.750000,49500,CARB,1yr
+,CARB,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-08-11,10.830000,11.220000,10.700000,10.960000,10.960000,81400,CARB,3yr
+,CARB,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-08-10,13.500000,13.570000,13.170000,13.280000,13.280000,375700,CARB,5yr
+,CARB,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-03-16,20.969999,20.969999,20.270000,20.459999,20.459999,528000,CSOD,1yr
+,CSOD,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-17,56.490002,56.869999,55.250000,56.049999,56.049999,438300,CSOD,3yr
+,CSOD,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-16,30.870001,31.950001,30.840000,31.879999,31.879999,371200,CSOD,5yr
+,CSOD,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-04-16,11.990000,12.100000,11.530000,12.060000,12.060000,55300,ELLI,1yr
+,ELLI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-04-14,24.080000,24.750000,23.959999,24.490000,24.490000,334000,ELLI,3yr
+,ELLI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-04-14,90.239998,90.489998,86.680000,86.809998,86.809998,494600,ELLI,5yr
+,ELLI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-11-05,3.870000,4.050000,3.770000,3.900000,3.900000,26650300,GRPN,1yr
+,GRPN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-03,7.320000,7.660000,7.210000,7.370000,7.370000,31069200,GRPN,3yr
+,GRPN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-03,3.830000,3.950000,3.830000,3.940000,3.940000,14985200,GRPN,5yr
+,GRPN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-11-19,6.990000,7.400000,6.990000,7.380000,7.380000,42500,IMI,1yr
+,IMI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-17,2.330000,2.330000,2.230000,2.260000,2.260000,15800,IMI,3yr
+,IMI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-11-17,1.040000,1.040000,1.000000,1.010000,1.010000,130000,IMI,5yr
+,IMI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-01-27,14.290000,14.370000,14.200000,14.260000,14.260000,81900,INXN,1yr
+,INXN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-01-27,25.080000,25.110001,24.280001,24.490000,24.490000,235600,INXN,3yr
+,INXN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-01-27,28.920000,29.200001,28.639999,28.940001,28.940001,630200,INXN,5yr
+,INXN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-03-12,11.700000,11.790000,11.230000,11.340000,11.340000,238700,MX,1yr
+,MX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-03-10,15.160000,15.170000,14.660000,14.790000,14.790000,291200,MX,3yr
+,MX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-03-10,5.530000,5.620000,5.400000,5.530000,5.530000,418000,MX,5yr
+,MX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-02-01,5.550000,5.740000,5.490000,5.580000,5.580000,49900,NPTN,1yr
+,NPTN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-02-03,7.290000,7.340000,7.090000,7.250000,7.250000,241500,NPTN,3yr
+,NPTN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-02-01,8.830000,8.930000,8.550000,8.820000,8.820000,352000,NPTN,5yr
+,NPTN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-05-04,11.900000,11.900000,11.480000,11.750000,11.750000,400400,NQ,1yr
+,NQ,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-05-05,11.910000,12.260000,11.550000,11.700000,11.700000,1425500,NQ,3yr
+,NQ,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-05-04,5.040000,5.180000,5.030000,5.060000,5.060000,585900,NQ,5yr
+,NQ,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-05-03,6.600000,6.650000,6.190000,6.340000,6.340000,7818600,RENN,1yr
+,RENN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-05-05,3.250000,3.330000,3.250000,3.320000,3.320000,278300,RENN,3yr
+,RENN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-05-03,3.190000,3.240000,3.120000,3.130000,3.130000,257300,RENN,5yr
+,RENN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-04-18,2.410000,2.500000,2.330000,2.350000,2.350000,119400,SQNS,1yr
+,SQNS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-10-15,12.590000,12.800000,12.410000,12.580000,12.340456,71500,UBNT,1yr
+,UBNT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-13,32.820000,33.099998,31.250000,31.770000,31.599571,1055000,UBNT,3yr
+,UBNT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-10-13,50.000000,50.049999,48.250000,49.470001,49.470001,923200,UBNT,5yr
+,UBNT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-05-23,20.860001,21.030001,20.600000,20.920000,20.920000,1426600,YNDX,1yr
+,YNDX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-05-23,31.000000,32.310001,30.879999,32.209999,32.209999,6143200,YNDX,3yr
+,YNDX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-05-23,19.190001,19.400000,19.040001,19.160000,19.160000,1511400,YNDX,5yr
+,YNDX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-12-17,2.540000,2.550000,2.410000,2.440000,2.440000,18127200,ZNGA,1yr
+,ZNGA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-12-15,2.490000,2.550000,2.420000,2.440000,2.440000,16925000,ZNGA,3yr
+,ZNGA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2016-12-15,2.800000,2.840000,2.780000,2.830000,2.830000,8374700,ZNGA,5yr
+,ZNGA,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-04-28,13.630000,13.920000,13.490000,13.760000,13.760000,134600,AOSL,1yr
+,AOSL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-04-29,8.840000,8.840000,8.580000,8.600000,8.600000,47500,AOSL,3yr
+,AOSL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-28,8.480000,8.620000,8.360000,8.540000,8.540000,35900,AOSL,5yr
+,AOSL,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-17,3.930000,5.000000,3.930000,4.240000,4.240000,120800,BITA,1yr
+,BITA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-11-18,32.439999,34.470001,29.219999,30.049999,30.049999,2175500,BITA,3yr
+,BITA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-11-17,28.719999,29.490000,27.600000,27.719999,27.719999,613100,BITA,5yr
+,BITA,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-06-15,35.400002,35.709999,34.410000,34.720001,34.720001,2110500,BSFT,1yr
+,BSFT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-06-17,29.559999,30.280001,28.990000,29.139999,29.139999,211900,BSFT,3yr
+,BSFT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-06-15,37.070000,37.470001,36.709999,36.730000,36.730000,200000,BSFT,5yr
+,BSFT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-10-06,18.000000,21.049999,17.850000,20.150000,20.150000,103200,DQ,1yr
+,DQ,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-10-07,25.820000,25.820000,23.299999,23.770000,23.770000,138800,DQ,3yr
+,DQ,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-10-06,18.309999,19.100000,17.600000,18.150000,18.150000,83400,DQ,5yr
+,DQ,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-09-16,3.286000,3.302000,3.190000,3.190000,2.530874,1293000,SFUN,1yr
+,SFUN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-09-16,9.140000,9.320000,8.976000,9.040000,8.587488,4457000,SFUN,3yr
+,SFUN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-09-16,5.620000,5.980000,5.530000,5.840000,5.840000,5413100,SFUN,5yr
+,SFUN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-11,10.930000,11.500000,10.890000,11.360000,11.360000,178200,IPHI,1yr
+,IPHI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-11-11,13.680000,13.680000,13.310000,13.450000,13.450000,62900,IPHI,3yr
+,IPHI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-11-11,29.709999,30.700001,29.500000,29.820000,29.820000,494200,IPHI,5yr
+,IPHI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-05-13,28.950001,28.990000,27.590000,28.500000,28.500000,715700,JKS,1yr
+,JKS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-05-13,7.100000,7.860000,7.100000,7.330000,7.330000,999900,JKS,3yr
+,JKS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-05-13,29.100000,29.850000,28.959999,29.299999,29.299999,879400,JKS,5yr
+,JKS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-03-23,8.060000,8.110000,7.930000,8.110000,8.110000,111500,MXL,1yr
+,MXL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-03-25,6.200000,6.280000,5.950000,6.120000,6.120000,26900,MXL,3yr
+,MXL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-23,8.220000,8.400000,8.220000,8.310000,8.310000,78000,MXL,5yr
+,MXL,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-08-05,17.170000,17.820000,14.690000,14.920000,14.920000,4395500,NXPI,1yr
+,NXPI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-08-05,35.840000,36.270000,35.470001,35.779999,35.779999,2028700,NXPI,3yr
+,NXPI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-08-05,95.279999,97.790001,95.010002,97.019997,97.019997,2900000,NXPI,5yr
+,NXPI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-08-11,23.520000,24.690001,23.309999,24.340000,24.340000,294500,RP,1yr
+,RP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-08-12,21.030001,21.400000,20.719999,20.820000,20.820000,476400,RP,3yr
+,RP,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-08-11,18.629999,19.400000,18.629999,18.959999,18.959999,261700,RP,5yr
+,RP,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-12-08,29.900000,30.000000,29.200001,29.400000,29.400000,3700,LEDS,1yr
+,LEDS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-12-09,9.700000,10.300000,9.500000,10.000000,10.000000,6400,LEDS,3yr
+,LEDS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-12-08,4.500000,4.500000,4.200000,4.300000,4.300000,6000,LEDS,5yr
+,LEDS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-01-03,20.080000,20.400000,20.000000,20.400000,20.400000,3400,SGOC,1yr
+,SGOC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-01-03,4.600000,4.800000,4.480000,4.520000,4.520000,10200,SGOC,3yr
+,SGOC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-01-05,3.000000,3.120000,2.720000,3.000000,3.000000,181500,SGOC,5yr
+,SGOC,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-04-21,14.340000,14.780000,14.010000,14.780000,14.780000,27500,SPSC,1yr
+,SPSC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-04-22,41.180000,41.529999,40.220001,40.750000,40.750000,41600,SPSC,3yr
+,SPSC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-04-21,67.349998,67.980003,67.139999,67.459999,67.459999,45000,SPSC,5yr
+,SPSC,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-03-30,10.020000,10.275000,9.990000,10.215000,9.880367,90800,SSNC,1yr
+,SSNC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-04-01,14.970000,15.050000,14.595000,14.775000,14.290985,819600,SSNC,3yr
+,SSNC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-03-30,30.865000,31.605000,30.865000,31.295000,30.468578,169400,SSNC,5yr
+,SSNC,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-09-30,6.850000,7.320000,6.850000,7.110000,7.110000,441600,KEYW,1yr
+,KEYW,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-09-30,13.420000,13.530000,13.300000,13.450000,13.450000,124400,KEYW,3yr
+,KEYW,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2015-09-30,6.140000,6.470000,5.960000,6.150000,6.150000,382700,KEYW,5yr
+,KEYW,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-08-05,22.110001,22.750000,22.110001,22.740000,20.375580,463900,AVGO,1yr
+,AVGO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-08-06,37.189999,37.439999,37.000000,37.070000,33.988209,1130300,AVGO,3yr
+,AVGO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-08-05,70.820000,71.419998,69.839996,70.120003,66.884201,1538800,AVGO,5yr
+,AVGO,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-11-17,15.590000,15.795000,15.280000,15.640000,15.640000,1320600,FTNT,1yr
+,FTNT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-11-19,18.580000,18.700001,18.240000,18.600000,18.600000,2321300,FTNT,3yr
+,FTNT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-11-17,27.100000,27.170000,26.850000,26.889999,26.889999,836700,FTNT,5yr
+,FTNT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-06-30,26.750000,27.670000,26.190001,26.230000,25.641722,119900,LOGM,1yr
+,LOGM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-07-02,30.440001,30.879999,30.290001,30.500000,29.815958,246900,LOGM,3yr
+,LOGM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-06-30,45.990002,46.700001,45.990002,46.619999,45.574425,410300,LOGM,5yr
+,LOGM,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-06-24,7.665000,7.970000,7.650000,7.945000,7.945000,481400,MDSO,1yr
+,MDSO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-06-25,14.875000,15.040000,14.705000,14.995000,14.995000,146000,MDSO,3yr
+,MDSO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-06-24,42.340000,43.389999,41.910000,41.980000,41.980000,508600,MDSO,5yr
+,MDSO,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-04-15,26.000000,26.740000,25.580000,26.650000,26.650000,277200,RST,1yr
+,RST,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-04-16,9.660000,9.810000,9.500000,9.750000,9.750000,74200,RST,3yr
+,RST,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-04-15,10.990000,11.170000,10.860000,11.010000,11.010000,188500,RST,5yr
+,RST,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-10-06,27.670000,28.010000,27.540001,27.920000,27.920000,359400,VRSK,1yr
+,VRSK,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-10-08,47.939999,48.419998,47.810001,48.340000,48.340000,402000,VRSK,3yr
+,VRSK,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2014-10-06,60.389999,60.820000,60.310001,60.459999,60.459999,431900,VRSK,5yr
+,VRSK,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-07-01,7.100000,7.230000,6.970000,7.130000,7.130000,243600,ERII,1yr
+,ERII,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-07-01,3.270000,3.300000,3.220000,3.300000,3.300000,202800,ERII,3yr
+,ERII,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-07-01,4.130000,4.290000,4.010000,4.210000,4.210000,106400,ERII,5yr
+,ERII,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-01-28,3.700000,3.950000,3.640000,3.850000,3.850000,1222200,SOL,1yr
+,SOL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-01-28,10.670000,10.800000,10.100000,10.180000,10.180000,4319300,SOL,3yr
+,SOL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2013-01-28,2.090000,2.110000,2.000000,2.090000,2.090000,649800,SOL,5yr
+,SOL,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-05-01,20.450001,21.200001,20.120001,20.980000,20.980000,485100,CAVM,1yr
+,CAVM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-05-03,27.430000,28.030001,27.139999,27.770000,27.770000,809200,CAVM,3yr
+,CAVM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-05-01,28.879999,30.280001,28.879999,29.750000,29.750000,2060200,CAVM,5yr
+,CAVM,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-03-28,2.770000,2.770000,2.720000,2.760000,2.760000,11600,GSIT,1yr
+,GSIT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-03-29,4.690000,4.740000,4.680000,4.700000,4.700000,8200,GSIT,3yr
+,GSIT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-03-28,4.290000,4.290000,4.260000,4.270000,4.270000,37100,GSIT,5yr
+,GSIT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-02-07,14.360000,14.830000,13.840000,14.770000,14.770000,255700,MLNX,1yr
+,MLNX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-02-08,18.110001,18.500000,17.959999,18.070000,18.070000,145400,MLNX,3yr
+,MLNX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-02-07,37.220001,37.250000,36.610001,36.980000,36.980000,123700,MLNX,5yr
+,MLNX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-07-24,13.100000,13.120000,12.380000,12.690000,11.728075,239800,TYPE,1yr
+,TYPE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-07-26,8.460000,8.510000,8.350000,8.400000,7.763265,527400,TYPE,3yr
+,TYPE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-07-24,12.590000,12.710000,12.150000,12.660000,11.700348,161700,TYPE,5yr
+,TYPE,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-07-25,11.760000,12.190000,11.630000,12.000000,12.000000,78400,PRO,1yr
+,PRO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-07-26,7.760000,7.810000,7.640000,7.790000,7.790000,65900,PRO,3yr
+,PRO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-07-25,13.390000,13.880000,13.390000,13.790000,13.790000,40100,PRO,5yr
+,PRO,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-11-17,3.590000,3.910000,3.500000,3.810000,3.810000,84600,RBCN,1yr
+,RBCN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-11-15,21.250000,21.639999,21.000000,21.000000,21.000000,548800,RBCN,3yr
+,RBCN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-11-15,6.280000,6.370000,6.040000,6.050000,6.050000,336500,RBCN,5yr
+,RBCN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-03-28,8.510000,8.510000,8.250000,8.300000,8.300000,45700,SMCI,1yr
+,SMCI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-03-29,16.780001,17.129999,16.709999,17.049999,17.049999,173600,SMCI,3yr
+,SMCI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-03-28,17.500000,17.580000,17.139999,17.299999,17.299999,59300,SMCI,5yr
+,SMCI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-10-09,9.940000,10.230000,8.760000,8.760000,5.464097,63400,TGH,1yr
+,TGH,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-10-11,27.370001,27.420000,27.150000,27.250000,19.542463,104000,TGH,3yr
+,TGH,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-10-09,31.969999,32.000000,31.299999,31.379999,24.559824,115900,TGH,5yr
+,TGH,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-08-04,6.970000,7.320000,6.850000,7.210000,7.210000,144900,VRTU,1yr
+,VRTU,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-08-02,10.760000,10.850000,10.110000,10.250000,10.250000,77000,VRTU,3yr
+,VRTU,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-08-02,14.160000,14.700000,14.160000,14.310000,14.310000,50200,VRTU,5yr
+,VRTU,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-08-14,36.290001,36.500000,35.220001,36.380001,36.380001,997900,VMW,1yr
+,VMW,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-08-16,76.889999,77.500000,76.320000,77.160004,77.160004,2143000,VMW,3yr
+,VMW,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-08-14,97.000000,97.040001,93.809998,94.070000,94.070000,1231200,VMW,5yr
+,VMW,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-06-09,193.300003,196.000000,178.300003,184.000000,184.000000,422900,YGE,1yr
+,YGE,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-06-07,88.900002,90.300003,83.800003,84.099998,84.099998,258400,YGE,3yr
+,YGE,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2012-06-07,27.000000,27.900000,26.000000,26.100000,26.100000,180600,YGE,5yr
+,YGE,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-11-20,20.440001,21.690001,20.410000,21.200001,21.200001,337700,AER,1yr
+,AER,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-11-20,8.420000,8.440000,8.260000,8.360000,8.360000,79200,AER,3yr
+,AER,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-21,10.220000,10.290000,9.920000,10.190000,10.190000,444900,AER,5yr
+,AER,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-08-07,31.870001,32.020000,31.410000,31.740000,18.282183,536400,AYR,1yr
+,AYR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-08-07,7.960000,9.750000,7.910000,9.630000,6.586948,1098200,AYR,3yr
+,AYR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-08-08,10.740000,10.920000,9.900000,9.940000,7.381552,1121900,AYR,5yr
+,AYR,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-11-15,5.190000,5.350000,5.180000,5.270000,5.270000,14800,ALLT,1yr
+,ALLT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-11-16,4.200000,4.260000,3.950000,4.050000,4.050000,34400,ALLT,3yr
+,ALLT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-15,16.000000,16.590000,15.950000,16.299999,16.299999,512400,ALLT,5yr
+,ALLT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-11-08,12.600000,14.410000,11.700000,12.230000,12.230000,2291100,CSIQ,1yr
+,CSIQ,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-11-09,17.110001,17.200001,16.879999,17.100000,17.100000,893900,CSIQ,3yr
+,CSIQ,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-08,3.130000,3.140000,3.050000,3.090000,3.090000,525000,CSIQ,5yr
+,CSIQ,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-09-21,19.340000,19.340000,18.600000,18.670000,18.670000,278800,CVLT,1yr
+,CVLT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-09-21,21.049999,21.049999,19.719999,19.990000,19.990000,897800,CVLT,3yr
+,CVLT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-09-21,36.400002,38.500000,36.389999,36.900002,36.900002,882500,CVLT,5yr
+,CVLT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-11-16,199.000000,212.630005,191.179993,212.630005,212.630005,6475400,FSLR,1yr
+,FSLR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-11-16,120.029999,125.220001,120.019997,123.410004,123.410004,3166800,FSLR,3yr
+,FSLR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-11-16,44.580002,45.869999,43.799999,44.060001,44.060001,3673800,FSLR,5yr
+,FSLR,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-12-12,20.090000,20.230000,19.809999,20.020000,20.020000,160500,IPGP,1yr
+,IPGP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-12-14,17.389999,17.540001,17.070000,17.100000,17.100000,81300,IPGP,3yr
+,IPGP,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-12-12,37.459999,37.820000,36.459999,37.750000,37.750000,690300,IPGP,5yr
+,IPGP,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-12-10,2.370000,2.370000,2.310000,2.340000,2.340000,29500,NLST,1yr
+,NLST,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-12-10,6.170000,6.430000,5.600000,5.700000,5.700000,9146800,NLST,3yr
+,NLST,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-12-12,2.900000,2.900000,2.740000,2.790000,2.790000,445200,NLST,5yr
+,NLST,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-06-14,27.930000,28.000000,26.850000,27.280001,27.280001,378000,SNCR,1yr
+,SNCR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-06-15,12.950000,13.100000,12.640000,12.800000,12.800000,144700,SNCR,3yr
+,SNCR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2011-06-14,28.870001,29.500000,28.580000,29.290001,29.290001,235700,SNCR,5yr
+,SNCR,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-11-16,38.560001,39.139999,36.509998,37.860001,37.860001,1205400,SPWR,1yr
+,SPWR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-11-17,24.500000,28.520000,24.059999,27.910000,27.910000,2077300,SPWR,3yr
+,SPWR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2010-11-16,13.950000,14.040000,13.390000,13.500000,13.500000,3306800,SPWR,5yr
+,SPWR,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-08-18,137.063538,139.343704,136.611481,139.090347,139.090347,23899900,GOOG,1yr
+,GOOG,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-08-20,249.606552,249.656219,246.397415,247.351212,247.351212,5429600,GOOG,3yr
+,GOOG,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-08-18,221.111877,222.403473,219.730865,221.201294,221.201294,4732800,GOOG,5yr
+,GOOG,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-07-25,13.920000,13.950000,13.750000,13.950000,11.558267,77900,BLKB,1yr
+,BLKB,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-07-25,22.660000,23.240000,22.450001,22.660000,19.297506,508500,BLKB,3yr
+,BLKB,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-07-27,16.610001,17.040001,16.610001,17.000000,15.126709,209100,BLKB,5yr
+,BLKB,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-04-29,8.780000,8.860000,8.630000,8.630000,6.174813,496800,INTX,1yr
+,INTX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-04-30,10.140000,11.780000,10.140000,11.070000,7.920648,115900,INTX,3yr
+,INTX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-04-29,3.130000,3.130000,3.060000,3.070000,2.196602,3400,INTX,5yr
+,INTX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-11-18,15.850000,15.930000,14.910000,15.050000,13.780465,1093000,MPWR,1yr
+,MPWR,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-11-19,19.360001,19.570000,19.040001,19.150000,17.534611,261500,MPWR,3yr
+,MPWR,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-11-18,22.330000,22.530001,22.170000,22.450001,20.556242,379000,MPWR,5yr
+,MPWR,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-06-22,5.070000,5.097500,4.815000,4.987500,4.987500,4431200,CRM,1yr
+,CRM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-06-22,10.605000,10.642500,10.075000,10.137500,10.137500,15560000,CRM,3yr
+,CRM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-06-22,9.802500,9.802500,9.325000,9.325000,9.325000,8435600,CRM,5yr
+,CRM,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-03-16,10.070000,10.220000,9.960000,9.960000,9.960000,319300,SMI,1yr
+,SMI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-03-16,6.150000,6.220000,6.100000,6.130000,6.130000,112500,SMI,3yr
+,SMI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-03-16,1.700000,1.740000,1.690000,1.720000,1.720000,34700,SMI,5yr
+,SMI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-03-24,6.450000,6.480000,6.450000,6.450000,6.450000,6900,UCTT,1yr
+,UCTT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-03-26,18.750000,18.860001,18.350000,18.469999,18.469999,272100,UCTT,3yr
+,UCTT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2009-03-24,1.130000,1.160000,1.000000,1.020000,1.020000,39100,UCTT,5yr
+,UCTT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-11-19,4.560000,4.560000,4.420000,4.420000,4.420000,13400,CALD,1yr
+,CALD,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-11-20,6.400000,7.270000,6.380000,6.960000,6.960000,637300,CALD,3yr
+,CALD,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-11-19,2.410000,2.450000,2.220000,2.220000,2.220000,91600,CALD,5yr
+,CALD,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-09-28,5.840000,5.880000,5.600000,5.750000,3.846375,560400,IPAS,1yr
+,IPAS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-09-28,4.840000,4.880000,4.650000,4.730000,3.164062,622300,IPAS,3yr
+,IPAS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-09-29,2.240000,2.300000,2.090000,2.240000,1.498414,107900,IPAS,5yr
+,IPAS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-11-24,21.420000,21.500000,21.299999,21.450001,20.874680,21300,SNX,1yr
+,SNX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-11-24,22.940001,23.580000,22.750000,23.530001,22.898891,21100,SNX,3yr
+,SNX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2008-11-24,9.620000,10.100000,9.430000,9.810000,9.546881,419400,SNX,5yr
+,SNX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-05-22,4.495964,4.631691,4.411135,4.580794,3.538425,393000,AUO,1yr
+,AUO,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-05-23,14.990647,15.115347,14.848134,14.990647,12.006917,1516700,AUO,3yr
+,AUO,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-05-22,15.850000,15.940000,15.750000,15.870000,13.080284,889400,AUO,5yr
+,AUO,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-05-20,21.000000,21.350000,21.000000,21.150000,11.964472,47100,CPSI,1yr
+,CPSI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-05-20,33.080002,33.790001,32.740002,33.540001,19.939634,145900,CPSI,3yr
+,CPSI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-05-21,30.830000,31.910000,30.090000,31.209999,19.942890,46000,CPSI,5yr
+,CPSI,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-12-10,18.700001,18.950001,17.600000,17.879999,11.463901,6240800,STX,1yr
+,STX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-12-12,19.350000,19.490000,19.219999,19.459999,12.941315,2260600,STX,3yr
+,STX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-12-10,28.000000,28.000000,27.379999,27.980000,19.185745,4116900,STX,5yr
+,STX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-01-28,4.746666,4.893333,4.666667,4.800000,4.800000,140400,SYNA,1yr
+,SYNA,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-01-28,25.020000,25.226667,23.766666,24.213333,24.213333,1434600,SYNA,3yr
+,SYNA,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-01-29,18.113333,18.520000,17.980000,18.086666,18.086666,1479900,SYNA,5yr
+,SYNA,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-05-15,20.850000,21.049999,19.820000,19.920000,19.920000,171000,VRNT,1yr
+,VRNT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-05-16,31.480000,33.580002,31.480000,33.480000,33.480000,180300,VRNT,3yr
+,VRNT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2007-05-15,30.000000,30.250000,28.969999,28.969999,28.969999,15600,VRNT,5yr
+,VRNT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2002-10-24,12.950000,14.020000,12.920000,13.710000,13.710000,357400,CCRN,1yr
+,CCRN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-10-25,15.310000,15.470000,15.300000,15.300000,15.300000,69700,CCRN,3yr
+,CCRN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-10-24,19.650000,19.740000,19.389999,19.430000,19.430000,54200,CCRN,5yr
+,CCRN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2002-07-16,9.720000,9.860000,9.370000,9.650000,9.650000,101700,MOSY,1yr
+,MOSY,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-07-16,5.110000,5.170000,4.960000,5.010000,5.010000,388600,MOSY,3yr
+,MOSY,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-07-17,7.000000,7.290000,6.650000,6.800000,6.800000,122500,MOSY,5yr
+,MOSY,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2002-08-08,6.320000,6.390000,6.150000,6.290000,6.290000,71000,OMCL,1yr
+,OMCL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-08-09,13.950000,14.250000,13.860000,14.160000,14.160000,213700,OMCL,3yr
+,OMCL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-08-08,16.240000,16.459999,16.040001,16.379999,16.379999,149300,OMCL,5yr
+,OMCL,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2002-07-30,5.950000,6.040000,5.950000,6.000000,6.000000,27800,PDFS,1yr
+,PDFS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2004-07-30,8.220000,8.630000,8.090000,8.210000,8.210000,19700,PDFS,3yr
+,PDFS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2006-07-31,11.200000,11.340000,11.000000,11.290000,11.290000,81200,PDFS,5yr
+,PDFS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-07-10,54.400002,54.560001,51.080002,51.560001,51.560001,208700,ACLS,1yr
+,ACLS,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-07-10,29.200001,29.200001,27.320000,27.760000,27.760000,246300,ACLS,3yr
+,ACLS,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-07-11,28.680000,29.480000,28.440001,29.360001,29.360001,214300,ACLS,5yr
+,ACLS,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-04-04,41.812500,42.500000,36.625000,38.000000,26.409052,1109400,CCMP,1yr
+,CCMP,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-04-04,45.529999,45.770000,43.580002,43.980000,30.565001,844000,CCMP,3yr
+,CCMP,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-04-04,31.750000,31.799999,30.850000,31.520000,21.905615,304100,CCMP,5yr
+,CCMP,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-04-10,1.220000,1.250000,1.220000,1.250000,1.250000,8000,HSTM,1yr
+,HSTM,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-04-10,1.050000,1.190000,0.960000,1.190000,1.190000,18600,HSTM,3yr
+,HSTM,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-04-11,3.290000,3.300000,2.830000,2.920000,2.920000,41100,HSTM,5yr
+,HSTM,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-08-03,7.740000,7.933333,7.193333,7.266667,4.206232,114000,ISSC,1yr
+,ISSC,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-08-04,4.826667,4.860000,4.826667,4.860000,2.813159,1000,ISSC,3yr
+,ISSC,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-08-03,18.690001,18.930000,18.500000,18.820000,10.893754,336600,ISSC,5yr
+,ISSC,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-08-03,49.500000,50.040001,48.000000,49.799999,49.799999,8800,LTRX,1yr
+,LTRX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-08-04,4.980000,4.980000,4.800000,4.920000,4.920000,4200,LTRX,3yr
+,LTRX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-08-03,7.260000,7.740000,7.260000,7.500000,7.500000,5000,LTRX,5yr
+,LTRX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-04-06,0.437500,0.468700,0.375000,0.437500,0.437500,78400,LPSN,1yr
+,LPSN,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-04-07,0.890000,0.980000,0.800000,0.960000,0.960000,127100,LPSN,3yr
+,LPSN,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-04-06,2.620000,2.650000,2.470000,2.470000,2.470000,28800,LPSN,5yr
+,LPSN,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-06-29,5.730000,7.002500,5.600000,6.725000,6.019474,4164800,MRVL,1yr
+,MRVL,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-06-30,8.560000,8.675000,8.440000,8.587500,7.686577,12374000,MRVL,3yr
+,MRVL,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-06-29,19.309999,19.375000,18.980000,19.215000,17.199131,4689800,MRVL,5yr
+,MRVL,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-05-18,78.480003,82.199997,76.529999,81.419998,81.419998,265200,PXLW,1yr
+,PXLW,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-05-19,21.450001,21.600000,20.430000,20.730000,20.730000,146300,PXLW,3yr
+,PXLW,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-05-18,23.400000,24.209999,23.400000,24.209999,24.209999,205300,PXLW,5yr
+,PXLW,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-06-22,41.520000,41.939999,39.900002,39.900002,32.374008,1200,QBAK,1yr
+,QBAK,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-06-23,34.500000,35.160000,34.439999,34.739998,28.187296,1300,QBAK,3yr
+,QBAK,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-06-22,21.299999,21.299999,21.299999,21.299999,17.282368,500,QBAK,5yr
+,QBAK,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-03-23,16.390600,19.500000,16.390600,18.000000,18.000000,220000,SLAB,1yr
+,SLAB,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-03-24,27.440001,27.500000,25.920000,26.360001,26.360001,1217500,SLAB,3yr
+,SLAB,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-03-23,28.870001,30.680000,28.860001,30.530001,30.530001,1762600,SLAB,5yr
+,SLAB,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-07-20,10.100000,10.450000,9.750000,10.250000,10.250000,59800,SMTX,1yr
+,SMTX,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-07-21,3.900000,3.900000,3.000000,3.000000,3.000000,21500,SMTX,3yr
+,SMTX,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-07-20,0.790000,0.810000,0.790000,0.790000,0.790000,12200,SMTX,5yr
+,SMTX,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-07-18,3.780000,3.910000,3.350000,3.750000,3.750000,125900,SPRT,1yr
+,SPRT,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-07-18,7.100000,7.120000,6.280000,6.880000,6.880000,732400,SPRT,3yr
+,SPRT,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-07-18,5.690000,5.810000,5.550000,5.800000,5.800000,288800,SPRT,5yr
+,SPRT,5yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2001-09-24,6.460000,7.000000,6.460000,7.000000,7.000000,151700,TTMI,1yr
+,TTMI,1yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2003-09-24,13.550000,14.900000,13.400000,13.650000,13.650000,937400,TTMI,3yr
+,TTMI,3yr
+Date,Open,High,Low,Close,Adj Close,Volume,Ticker,Period
+2005-09-26,6.960000,7.100000,6.920000,7.030000,7.030000,198000,TTMI,5yr
+,TTMI,5yr
